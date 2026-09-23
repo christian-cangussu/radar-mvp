@@ -13,31 +13,31 @@ import LeadForm from "./lead-form";
 
 const opportunities = [
   {
-    score: 94,
-    title: "Servicio de mantenimiento integral de instalaciones",
-    buyer: "Ajuntament de Barcelona",
-    value: "€428.000",
-    deadline: "14 días",
-    cpv: "50700000",
-    match: "Experiencia y CPV alineados",
+    score: 91,
+    title: "Servicio de mantenimiento de pequeños desarrollos",
+    buyer: "Aena · Barcelona-El Prat",
+    value: "€304.522",
+    deadline: "05 oct",
+    cpv: "Servicios TI",
+    match: "Oportunidad pública abierta",
   },
   {
-    score: 89,
-    title: "Asistencia técnica para sistemas de información",
-    buyer: "Administración General",
-    value: "€186.500",
-    deadline: "9 días",
-    cpv: "72200000",
-    match: "Capacidad técnica compatible",
+    score: 88,
+    title: "Licencias de software y hardware para servicios TIC",
+    buyer: "Barcelona Activa",
+    value: "€463.006",
+    deadline: "05 oct",
+    cpv: "48218000",
+    match: "Oportunidad pública abierta",
   },
   {
-    score: 83,
-    title: "Automatización de procesos y tratamiento de datos",
-    buyer: "Entidad pública empresarial",
-    value: "€96.000",
-    deadline: "21 días",
-    cpv: "72500000",
-    match: "Alta afinidad por servicios",
+    score: 86,
+    title: "Mantenimiento de infraestructura TIC y backup",
+    buyer: "SEPES · Madrid",
+    value: "€806.500",
+    deadline: "09 oct",
+    cpv: "72610000",
+    match: "Oportunidad pública abierta",
   },
 ];
 
@@ -107,22 +107,22 @@ export default function Home() {
           <div className="primaryOpportunity">
             <div className="opportunityHeader">
               <div>
-                <div className="microLabel">MEJOR MATCH DE HOY</div>
-                <h3>Servicio de mantenimiento integral de instalaciones</h3>
+                <div className="microLabel">EJEMPLO · OPORTUNIDAD ABIERTA</div>
+                <h3>Servicio de mantenimiento de pequeños desarrollos</h3>
               </div>
               <div className="scoreRing">
-                <strong>94</strong>
+                <strong>91</strong>
                 <span>match</span>
               </div>
             </div>
             <div className="opportunityStats">
-              <div><span>Valor estimado</span><strong>€428.000</strong></div>
-              <div><span>Plazo</span><strong>14 días</strong></div>
-              <div><span>CPV</span><strong>50700000</strong></div>
+              <div><span>Valor estimado</span><strong>€304.522</strong></div>
+              <div><span>Plazo</span><strong>05 oct</strong></div>
+              <div><span>CPV</span><strong>Servicios TI</strong></div>
             </div>
             <div className="matchReason">
               <Check size={14} />
-              Encaja con 4 de 5 capacidades registradas de tu empresa
+              Datos públicos reales · el encaje final depende del perfil y los pliegos
             </div>
           </div>
 
@@ -142,8 +142,8 @@ export default function Home() {
             ))}
           </div>
           <div className="stageFooter">
-            <span>12 oportunidades nuevas</span>
-            <span className="muted">3 requieren revisión</span>
+            <span>Datos públicos actualizados</span>
+            <span className="muted">Fuente: contratación pública</span>
           </div>
         </div>
       </section>
@@ -259,17 +259,17 @@ export default function Home() {
           <div>
             <div className="eyebrow"><span /> Acceso inicial</div>
             <h2>Cuesta menos que perder una sola oportunidad.</h2>
-            <p>Empezamos con un único plan mientras afinamos el producto con las primeras empresas.</p>
+            <p>Las primeras 20 empresas entran a precio fundador mientras construimos casos reales con ellas.</p>
           </div>
           <div className="priceBlock">
-            <div><strong>€199</strong><span>/mes</span></div>
+            <div><strong>€79</strong><span>/mes · Founding 20</span></div>
             <ul>
               <li><Check size={15}/> Perfil de empresa</li>
               <li><Check size={15}/> Matching y prioridad</li>
               <li><Check size={15}/> Resumen de expedientes</li>
-              <li><Check size={15}/> Alertas de nuevas oportunidades</li>
+              <li><Check size={15}/> Alertas de nuevas oportunidades</li>\n              <li><Check size={15}/> Onboarding y configuración incluidos</li>
             </ul>
-            <a className="button buttonAccent fullButton" href="#demo">Solicitar acceso <ArrowRight size={15}/></a>
+            <a className="button buttonAccent fullButton" href="#demo">Entrar como Founding 20 <ArrowRight size={15}/></a>
           </div>
         </div>
       </section>
@@ -279,7 +279,7 @@ export default function Home() {
         <h2>Antes de venderte nada,<br/>te enseñamos qué estás dejando pasar.</h2>
         <p>Envíanos la web de tu empresa. Preparamos una muestra con oportunidades de tu sector.</p>
         <LeadForm />
-        <div className="formNote">Sin tarjeta. Sin demo de 45 minutos. Una muestra con oportunidades reales.</div>
+        <div className="formNote">Primero te enseñamos oportunidades reales. Si hay valor, el acceso Founding 20 cuesta €79/mes.</div>
       </section>
 
       <footer className="footer shell">
