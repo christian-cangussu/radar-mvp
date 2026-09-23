@@ -1,5 +1,5 @@
 {
-  "name": "radar-mvp",
+  "name": "nexlic",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,16 +11,16 @@
   "dependencies": {
     "@supabase/supabase-js": "^2.57.4",
     "lucide-react": "^0.544.0",
-    "next": "16.0.0",
-    "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "next": "16.3.6",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
   },
   "devDependencies": {
     "@types/node": "^24.5.2",
     "@types/react": "^19.1.16",
     "@types/react-dom": "^19.1.9",
     "eslint": "^9.36.0",
-    "eslint-config-next": "16.0.0",
+    "eslint-config-next": "16.3.6",
     "typescript": "^5.9.2"
   }
 }
