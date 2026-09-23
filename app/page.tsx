@@ -47,7 +47,7 @@ export default function Home() {
       <nav className="nav shell">
         <a className="brand" href="#">
           <span className="brandMark"><Crosshair size={16} /></span>
-          RADAR
+          NEXLIC
         </a>
         <div className="navLinks">
           <a href="#producto">Producto</a>
@@ -71,7 +71,7 @@ export default function Home() {
             <em>La pregunta es si lo vas a ver a tiempo.</em>
           </h1>
           <p className="heroLead">
-            RADAR revisa contratación pública, entiende qué vende tu empresa y
+            NEXLIC revisa contratación pública, entiende qué vende tu empresa y
             prioriza únicamente las oportunidades que merecen una decisión.
           </p>
           <div className="heroActions">
@@ -89,7 +89,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="productStage" aria-label="Vista previa de RADAR">
+        <div className="productStage" aria-label="Vista previa de NEXLIC">
           <div className="stageTop">
             <div className="stageTitle">
               <span className="liveDot" />
@@ -172,13 +172,13 @@ export default function Home() {
           <article className="feature featureLarge">
             <div className="featureIcon"><Crosshair size={18}/></div>
             <h3>Matching empresa × contrato</h3>
-            <p>RADAR compara actividad, CPV, geografía, importe, capacidades y señales del expediente.</p>
+            <p>NEXLIC compara actividad, CPV, geografía, importe, capacidades y señales del expediente.</p>
             <div className="signalBoard">
               <div className="signalRow"><span>CPV compatible</span><b>+24</b></div>
               <div className="signalRow"><span>Capacidad técnica</span><b>+31</b></div>
               <div className="signalRow"><span>Geografía</span><b>+18</b></div>
               <div className="signalRow"><span>Historial del comprador</span><b>+13</b></div>
-              <div className="signalTotal"><span>Score RADAR</span><strong>86</strong></div>
+              <div className="signalTotal"><span>Score NEXLIC</span><strong>86</strong></div>
             </div>
           </article>
 
@@ -215,7 +215,7 @@ export default function Home() {
           <div className="darkIntro">
             <div className="eyebrow eyebrowDark"><span /> Operación</div>
             <h2>Un analista que empieza antes que tu jornada.</h2>
-            <p>RADAR vigila, ordena y prepara. Tu equipo entra cuando existe una decisión real.</p>
+            <p>NEXLIC vigila, ordena y prepara. Tu equipo entra cuando existe una decisión real.</p>
           </div>
           <div className="timeline">
             {[
@@ -247,7 +247,7 @@ export default function Home() {
               y exige demasiadas horas para convertirla en una decisión comercial.
             </p>
             <p>
-              RADAR convierte publicación pública en una lista priorizada de oportunidades
+              NEXLIC convierte publicación pública en una lista priorizada de oportunidades
               que tu empresa realmente puede perseguir.
             </p>
           </div>
@@ -275,7 +275,7 @@ export default function Home() {
       </section>
 
       <section className="finalCta shell" id="demo">
-        <div className="finalEyebrow">RADAR / ACCESO ANTICIPADO</div>
+        <div className="finalEyebrow">NEXLIC / ACCESO ANTICIPADO</div>
         <h2>Antes de venderte nada,<br/>te enseñamos qué estás dejando pasar.</h2>
         <p>Envíanos la web de tu empresa. Preparamos una muestra con oportunidades de tu sector.</p>
         <form className="companyForm" action="mailto:christiancangussu99@gmail.com" method="post" encType="text/plain">
@@ -286,7 +286,7 @@ export default function Home() {
       </section>
 
       <footer className="footer shell">
-        <div className="brand"><span className="brandMark"><Crosshair size={15}/></span> RADAR</div>
+        <div className="brand"><span className="brandMark"><Crosshair size={15}/></span> NEXLIC</div>
         <div>Contratación pública, sin ruido.</div>
         <div className="footerRight">España · 2026</div>
       </footer>
