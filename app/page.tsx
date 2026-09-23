@@ -267,7 +267,8 @@ export default function Home() {
               <li><Check size={15}/> Perfil de empresa</li>
               <li><Check size={15}/> Matching y prioridad</li>
               <li><Check size={15}/> Resumen de expedientes</li>
-              <li><Check size={15}/> Alertas de nuevas oportunidades</li>\n              <li><Check size={15}/> Onboarding y configuración incluidos</li>
+              <li><Check size={15}/> Alertas de nuevas oportunidades</li>
+              <li><Check size={15}/> Onboarding y configuración incluidos</li>
             </ul>
             <a className="button buttonAccent fullButton" href="#demo">Entrar como Founding 20 <ArrowRight size={15}/></a>
           </div>
