@@ -1,0 +1,6 @@
+import CompanyDemo from "../company-demo";
+export default function Page(){return <CompanyDemo company="agap2 Spain" domain="agap2.es" sector="IT & Engineering Consulting" location="Barcelona" opportunities={[
+{score:92,title:"Servicio de mantenimiento de pequeños desarrollos",buyer:"Aena · Barcelona-El Prat",value:"€304.522",deadline:"05 oct 2026",cpv:"Servicios TI",source:"https://contratos.gobierto.es/adjudicadores/aena-direccion-del-aeropuerto-de-josep-tarradellas-barcelona-el-prat?locale=es"},
+{score:88,title:"Mantenimiento de infraestructura TIC, recuperación ante desastres y backup",buyer:"SEPES · Madrid",value:"€806.500 valor estimado",deadline:"09 oct 2026",cpv:"72610000",source:"https://contratos.gobierto.es/licitaciones/5218826?locale=es"},
+{score:84,title:"Plataforma de gestión de contenidos y portales del Ayuntamiento de Madrid",buyer:"Informática Ayuntamiento de Madrid",value:"€4,71M valor estimado",deadline:"28 sep 2026",cpv:"72262000 / 72253200",source:"https://contratos.gobierto.es/licitaciones/5191601?locale=es"}
+]}/>}
