@@ -21,7 +21,7 @@ export default function Dashboard() {
   return (
     <main className="dashboard">
       <aside className="sidebar">
-        <a className="brand dashBrand" href="/"><span className="brandMark"><Crosshair size={15}/></span> RADAR</a>
+        <a className="brand dashBrand" href="/"><span className="brandMark"><Crosshair size={15}/></span> NEXLIC</a>
         <div className="sideSection">
           <span className="sideLabel">Workspace</span>
           <a className="sideLink active" href="#"><LayoutDashboard size={16}/> Oportunidades</a>
