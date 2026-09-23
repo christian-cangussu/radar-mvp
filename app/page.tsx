@@ -1,6 +1,5 @@
 import {
   ArrowRight,
-  ArrowUpRight,
   Building2,
   CalendarClock,
   Check,
@@ -10,6 +9,7 @@ import {
   Search,
   ShieldCheck,
 } from "lucide-react";
+import LeadForm from "./lead-form";
 
 const opportunities = [
   {
@@ -278,10 +278,7 @@ export default function Home() {
         <div className="finalEyebrow">NEXLIC / ACCESO ANTICIPADO</div>
         <h2>Antes de venderte nada,<br/>te enseñamos qué estás dejando pasar.</h2>
         <p>Envíanos la web de tu empresa. Preparamos una muestra con oportunidades de tu sector.</p>
-        <form className="companyForm" action="mailto:christiancangussu99@gmail.com" method="post" encType="text/plain">
-          <div className="urlInput"><span>https://</span><input name="empresa" placeholder="tuempresa.es" aria-label="Web de tu empresa"/></div>
-          <button className="button buttonDark" type="submit">Analizar empresa <ArrowUpRight size={16}/></button>
-        </form>
+        <LeadForm />
         <div className="formNote">Sin tarjeta. Sin demo de 45 minutos. Una muestra con oportunidades reales.</div>
       </section>
 
