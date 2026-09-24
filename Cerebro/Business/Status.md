@@ -117,3 +117,11 @@
 - Regra de produto reforçada: NEXLIC deve parecer inteligência operacional premium, não uma lista de licitações. Cada oportunidade precisa responder: o que é, quanto vale, quando fecha, por que apareceu, o que falta validar e onde verificar a fonte.
 - Commit da rota PERSEUS: `5aed67b76cbef7fa01e3a1bdb17e60f29f5a1c03`; upgrade do componente: `b0fa722c9944af2a1842a100090e50187bf28e58`.
 - Netlify após commits reporta deploy corrente e branch URL `6ab50aa3f8b28300bd7bffbf--radar-mvp-christian.netlify.app`.
+
+
+## 2026-09-24 13:36 — Netlify bloqueado por créditos; continuidade reforçada
+- Owner mostrou painel Netlify: conta/team em **operational credits**; sites publicados continuam live, mas production deploys e Agent Runners estão pausados. Isso explica por que não devemos tentar resolver o preview com novos deploys Netlify nesta fase.
+- Owner decidiu: em casa, migrará o repositório NEXLIC para **Coolify** e comprará/configurará domínio próprio. Não comprar domínio nem gerar custo sem ação/autorização explícita.
+- Erro estrutural reconhecido: foi usado `radar-mvp-christian` em vez do projeto canônico `nexlic` e foi comunicada URL antes de verificar deploy real. PM-006 criado.
+- Regra permanente reforçada em `AGENTS.md` e `CLAUDE.md`: toda ação NEXLIC começa obrigatoriamente por INDICE → ATLAS → tail Status → latest Session → sistema real. Chat/memória não substituem fonte canônica.
+- Trabalho comercial **não para** por causa do hosting: continuar prospects, matches defensáveis, previews em arquivo/CRM, inbound e conversão €79.
