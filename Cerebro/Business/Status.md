@@ -74,3 +74,13 @@
 - Christian confirmou manualmente que o post de lançamento NEXLIC no LinkedIn já foi publicado.
 - Watchlist para investigação futura, sem desviar da primeira receita: trycompai/crm (agent-first CRM), every-app/open-seo, dgtlmoon/changedetection.io, JCodesMore/ai-website-cloner-template, hugohe3/ppt-master, D4Vinci/Scrapling e PaddlePaddle/PaddleOCR.
 - Regra: não migrar stack nem reconstruir infraestrutura agora; avaliar apenas quando houver impacto claro em receita/custo/operação. Prioridade continua primeira venda Founding 20 €79.
+
+
+## 2026-09-24 12:16 — PERSEUS chegou a Preview Ready
+- Owner autorizou execução comercial agressiva dentro de rotas legais/permissionadas.
+- Evidência oficial adicional: PERSEUS foi licitadora única e adjudicatária em expediente EJIE-2026-051; email `admon@pers.eus` aparece como contato administrativo de licitação. Regra: **não usar esse email público de expediente para marketing**.
+- Decisor identificado em fonte pública: **Borja Galarza Legazpi**, CEO da PERSEUS Cybersecurity Services; contato Close `cont_HlVoq3nNix6MymcnqE6NTYxlK7igGVhT4d7Lc1EkpB0`, perfil LinkedIn registrado.
+- Preview personalizado criado em `Cerebro/Business/Vendas/Previews/PERSEUS-2026-09-24.md`, ancorado em EJIE-2026-114 e CABB 3307, com disclaimer explícito de elegibilidade.
+- Opportunity Close `oppo_303HO7BIqO4II1HqFfhuieJir2oCowTTZrNMcV9p0RJ` promovida de Qualified Prospect para **Preview Ready**, €79/mês, confiança 20%.
+- Mensagem individual de LinkedIn preparada no Close (nota `acti_eZNkX0dYAaFXemy5ZGlOUMoxyOmYedjJM6wriAcYLEv`). Não enviada porque o conector LinkedIn disponível permite pesquisa, não envio de mensagens; não substituir por cold email administrativo.
+- Próxima ação que exige canal: enviar a abordagem individual ao CEO via LinkedIn e, em caso de resposta, entregar o preview e CTA Founding 20 €79.
