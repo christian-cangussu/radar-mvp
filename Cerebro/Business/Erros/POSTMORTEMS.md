@@ -60,3 +60,24 @@ ficou mais difícil separar erro de código, infra e configuração.
 
 Regra permanente:
 produção vermelha congela novas features.
+
+---
+
+## PM-005 — Update de documento append-only com placeholder
+
+Data: 2026-09-24
+
+Sintoma:
+uma chamada de atualização de `Cerebro/Business/Status.md` recebeu `PLACEHOLDER` como conteúdo completo e substituiu temporariamente o histórico append-only.
+
+Causa:
+foi usado `update_file`, que substitui o ficheiro inteiro, antes de montar localmente `conteúdo atual + nova entrada`.
+
+Impacto:
+o histórico ficou ausente no HEAD por um commit. A versão anterior continuava íntegra no Git e foi restaurada imediatamente; nenhuma informação ficou perdida no estado final.
+
+Correção:
+recuperar `Status.md` do commit imediatamente anterior, acrescentar a entrada correta e gravar novamente.
+
+Regra permanente:
+para qualquer ficheiro append-only: **fetch atual → construir conteúdo completo em memória → verificar que começa pelo conteúdo anterior → update_file**. Nunca chamar `update_file` com placeholder ou conteúdo parcial.
