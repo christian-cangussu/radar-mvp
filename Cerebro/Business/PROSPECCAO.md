@@ -16,3 +16,7 @@ Este repositório é público. Não copiar correspondência, CV, telefones, iden
 
 - https://careers.valeriahr.com/jobs/8078448-mid-ai-engineer — requisito 3+ anos profissionais: não ocultar lacuna.
 - https://eferwebscencia.com/colabora-con-nosotros/ — convite a freelancers de marketing digital; necessidade específica de automação não confirmada.
+
+## Deduplicação reforçada — 2026-09-24
+
+Buscas pré-envio devem incluir mensagens arquivadas, lixeira e spam (`in:anywhere`). Declaração anterior de submissão bloqueia reenvio até resolver o estado, mesmo sem confirmação automática. Histórico fora da caixa de entrada continua sendo histórico. Não atribuir execução a um agente específico sem evidência.
