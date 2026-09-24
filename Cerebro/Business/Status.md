@@ -108,3 +108,12 @@
 - Criados no Close: lead `lead_NO4AKAV3pgY9TJXKQi2oHtlSWp6lHNwhZuWXT8QxipU` e opportunity `oppo_3fxg2Nzxbz2DzVAMWXCBDkGK7pNutOI97QoF6ZdwqHY`, Qualified Prospect, €79/mês, 10%.
 - **Não afirmar elegibilidade da Minsait para ENAIRE:** falta confirmar especificamente o nível Appian Premier exigido e os restantes requisitos PCAP/PPT. Nenhum outreach enviado.
 - Próximo gate: encontrar match aberto adicional para VASS ou confirmar requisitos completos de Minsait/ENAIRE; manter PERSEUS como prioridade de conversão por já ter outbound real enviado.
+
+
+## 2026-09-24 13:xx — Produto demonstrável entregue: preview PERSEUS
+- Christian pediu para ver o produto real que um cliente pagante receberá, não apenas a landing.
+- Criada rota navegável `/demo/perseus` com 3 oportunidades reais previamente validadas no sprint: EJIE/Cyberzaintza, CABB e Canal de Isabel II.
+- O componente compartilhado de demos foi elevado para experiência de decisão: prioridade /100 explicitamente não tratada como probabilidade, sinais de fonte verificável, prazo, perfil aplicado, riscos visíveis, justificativa de entrada no radar e gate de solvência/certificações/requisitos excluyentes.
+- Regra de produto reforçada: NEXLIC deve parecer inteligência operacional premium, não uma lista de licitações. Cada oportunidade precisa responder: o que é, quanto vale, quando fecha, por que apareceu, o que falta validar e onde verificar a fonte.
+- Commit da rota PERSEUS: `5aed67b76cbef7fa01e3a1bdb17e60f29f5a1c03`; upgrade do componente: `b0fa722c9944af2a1842a100090e50187bf28e58`.
+- Netlify após commits reporta deploy corrente e branch URL `6ab50aa3f8b28300bd7bffbf--radar-mvp-christian.netlify.app`.
