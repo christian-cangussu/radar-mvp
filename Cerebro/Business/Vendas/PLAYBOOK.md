@@ -151,3 +151,26 @@ Nenhum contato realizado ainda.
 - Isto melhora substancialmente o sinal de certificação, mas ainda é necessário confirmar se o escopo/certificado cobre a entidade jurídica Connectis ICT Services S.A.U. de forma aceitável no expediente.
 - Partner **Diamond UiPath / Premier Appian** continua sem evidência pública defensável nesta revisão e permanece o principal gate técnico.
 - Até resolver esses pontos, ENAIRE não deve ser apresentado como elegibilidade confirmada e Connectis não deve avançar para Preview Ready.
+
+### PERSEUS CIBERSEGURIDAD, S.L. — 2026-09-24
+
+Estado CRM: lead **Potential** (sem contato), opportunity **Qualified Prospect** `oppo_303HO7BIqO4II1HqFfhuieJir2oCowTTZrNMcV9p0RJ`, €79/mês.
+
+Evidência de ICP:
+- pyme de cibersegurança em Bizkaia com contratação pública recorrente;
+- adjudicação 2026 de €615.785 para renovação de segurança perimetral da Autoridad Portuaria de Bilbao;
+- acordo marco CrowdStrike com LANTIK;
+- histórico recente com EJIE.
+
+Matches abertos defensáveis para aprofundamento:
+1. **EJIE-2026-114 — Cyberzaintza firewalls/security platform**: deadline 08/10/2026 10:00; €198.347,11 sem IVA; CPVs 32500000, 48730000, 50332000. Melhor âncora por domínio + geografia + relação prévia com EJIE.
+2. **CABB 3307 — rede e segurança IT**: deadline 30/09/2026 13:00; €400.000 base / €1,2M estimado; CPVs 72315000/72700000 e relacionados. Fit técnico/geográfico forte.
+
+Gate para Preview Ready:
+- revisar PCAP/PPT dos dois expedientes;
+- validar solvência, marcas/certificações/equipa e quaisquer requisitos eliminatórios;
+- não afirmar elegibilidade antes disso;
+- identificar decisor e rota de contato permitida;
+- construir preview somente se pelo menos os matches sobreviventes forem defensáveis.
+
+Nenhum outreach realizado.
