@@ -136,3 +136,12 @@ Gate para Preview Ready:
 5. construir preview verificável.
 
 Nenhum contato realizado ainda.
+
+
+### Gate ENAIRE aprofundado — 05:23
+
+- Confirmado: DNA 260/2026 aberto até 05/10/2026 23:59; CPV 72232000; €1.495.000 sem IVA / €5.980.000 valor estimado; lotes de €1.171.000 (implementação) e €324.000 (controlo/testes).
+- Afinidade técnica Connectis: forte em RPA/UiPath; adjudicação UiPath publicada em 21/09/2026. IDEPA confirma ISO 9001 e ISO 20000.
+- Bloqueadores ainda não verificados: ISO 14001 e níveis de partner Appian/UiPath indicados por resumo público do pliego, além da solvência/equipa mínima detalhada.
+- Regra comercial para este caso: **não dizer “puede licitar”**. Até validar os requisitos oficiais, mostrar apenas **“alta afinidad técnica — validar requisitos excluyentes”**.
+- Connectis permanece **Qualified Prospect**, não Preview Ready.
