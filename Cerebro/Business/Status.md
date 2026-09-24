@@ -125,3 +125,12 @@
 - Erro estrutural reconhecido: foi usado `radar-mvp-christian` em vez do projeto canônico `nexlic` e foi comunicada URL antes de verificar deploy real. PM-006 criado.
 - Regra permanente reforçada em `AGENTS.md` e `CLAUDE.md`: toda ação NEXLIC começa obrigatoriamente por INDICE → ATLAS → tail Status → latest Session → sistema real. Chat/memória não substituem fonte canônica.
 - Trabalho comercial **não para** por causa do hosting: continuar prospects, matches defensáveis, previews em arquivo/CRM, inbound e conversão €79.
+
+
+## 2026-09-24 — Decision Twin demo committed for Coolify
+- Owner pediu execução imediata do novo produto/diferencial.
+- `app/demo/company-demo.tsx` convertido de cards de licitações para experiência Decision Twin: fila de decisão, Killers First, Why it deserves attention, What Changed com guardrail factual, Reverse Deadline, GO/NO-GO learning cue e DNA/memória privada.
+- CSS premium/responsivo adicionado em `app/globals.css`.
+- Commits: `7273d5f39d598c11005277d85fafbfb101424869` (produto) e `a0ee6f61358f5419f7396163bcbc2de03c86eb06` (design).
+- Coolify já está conectado ao GitHub com auto-build segundo confirmação do owner. URL esperada após build: `/demo/perseus` no host Coolify atual.
+- Não declarar deploy verificado: tentativa externa de abrir o host sslip.io foi bloqueada pelo ambiente desta sessão; confirmação visual/build ainda pendente.
