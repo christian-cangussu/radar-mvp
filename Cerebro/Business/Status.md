@@ -96,3 +96,15 @@
 - Encontrada oportunidade oficial adicional: Canal de Isabel II, expediente 265-2025, Serviços de Cibersegurança, em prazo até 08/10/2026 23:59; €5M orçamento base sem impostos / €6,25M valor estimado; 3 lotes (SOC/inteligência, OTS, riscos/normativa/maturidade).
 - Adicionada ao preview PERSEUS como terceiro match, **sem afirmar elegibilidade**; PPT confidencial e PCAP continuam gate.
 - Resultado: preview comercial PERSEUS agora demonstra 3 oportunidades abertas e atuais, aumentando a densidade de valor antes do outreach.
+
+## 2026-09-24 13:28 — gate ENAIRE corrigido + Minsait qualificada
+- Produção revalidada no Netlify: deploy `6ab4ab647a16c800080b681f` continua `ready`, sem erro.
+- Gmail: nenhuma resposta/inbound NEXLIC ou PERSEUS detectada; resultados recentes são não comerciais ou promoção da Close.
+- PayPal: consulta de transações do dia retornou 0 itens no último refresh disponível (até 09:59 Europe/Madrid); não há evidência de pagamento novo.
+- PERSEUS: owner confirmou envio manual do formulário oficial de contato; continua Preview Ready aguardando resposta.
+- ENAIRE DNA 260/2026 segue aberto até 05/10/2026 23:59, €1,495M base sem IVA / €5,98M estimado, dois lotes.
+- **VASS não deve usar ENAIRE como match defensável no estado atual:** o diretório oficial UiPath lista `Vass Consultoria de Sistemas SL` como **Authorized Spain**, enquanto o resumo do pliego aponta requisito **Diamond UiPath**. Apesar de VASS ser parceiro Appian forte/Elite e ter ISO 9001/14001, o requisito UiPath é bloqueador material não resolvido. VASS permanece Qualified Prospect, mas ENAIRE sai como âncora até evidência contrária/consórcio admissível.
+- **Minsait / INDRA SOLUCIONES TECNOLOGÍAS DE LA INFORMACIÓN, S.L.U.** promovida a Qualified Prospect: Gobierto indexa 48 adjudicações / €107,42M em 2026; UiPath lista `Minsait-Indra Soluciones TI` como **Diamond Fast Track Spain**; Appian lista Minsait como parceiro e o premiou Growth Award 2024 / Global Focus Partner top 10.
+- Criados no Close: lead `lead_NO4AKAV3pgY9TJXKQi2oHtlSWp6lHNwhZuWXT8QxipU` e opportunity `oppo_3fxg2Nzxbz2DzVAMWXCBDkGK7pNutOI97QoF6ZdwqHY`, Qualified Prospect, €79/mês, 10%.
+- **Não afirmar elegibilidade da Minsait para ENAIRE:** falta confirmar especificamente o nível Appian Premier exigido e os restantes requisitos PCAP/PPT. Nenhum outreach enviado.
+- Próximo gate: encontrar match aberto adicional para VASS ou confirmar requisitos completos de Minsait/ENAIRE; manter PERSEUS como prioridade de conversão por já ter outbound real enviado.
