@@ -159,3 +159,21 @@ https://www.paypal.com/ncp/payment/PLB-NVF56AYGCHAC
 ⚠️ Erro estrutural desta execução: uma escrita em `Status.md` enviou conteúdo placeholder e substituiu temporariamente o histórico. O ficheiro foi imediatamente restaurado a partir do commit anterior e esta ocorrência deve ser registrada em POSTMORTEMS. Nenhuma informação histórica ficou perdida no estado final.
 
 🎯 Próximo passo: confirmar cobertura jurídica da ISO 14001 e, sobretudo, partner Appian/UiPath; se não houver evidência defensável, não promover ENAIRE e avançar para outro match/prospect.
+
+---
+
+## 2026-09-24 06:46 — Teste real de captação pela landing
+
+✅ Teste manual do owner submetido pela landing NEXLIC e confirmado no Supabase com `POST 201`/row persistida.
+
+✅ Registro identificado como teste do owner e marcado com:
+- `status = lost`
+- `metadata.test = true`
+- `metadata.owner_test = true`
+- nota interna para não tratar como lead comercial.
+
+✅ Verificado que o teste NÃO criou lead no Close e NÃO disparou email automático.
+
+✅ `NEXLIC Lead Watch` atualizado para ignorar explicitamente registros de teste/owner test.
+
+🎯 Conclusão: caminho landing → Supabase está funcionando. Próximo gate de produto é um inbound real percorrer Supabase → pesquisa → Close → resposta.
