@@ -69,3 +69,8 @@
 - Nenhum outreach enviado.
 
 🎯 Próximo gate: revisar PCAP/PPT dos dois matches PERSEUS, eliminar qualquer incompatibilidade material e identificar decisor/rota de contato permitida. Se sobreviver, construir preview e mover para Preview Ready.
+
+## 2026-09-24 11:07 — Launch confirmado + watchlist open-source
+- Christian confirmou manualmente que o post de lançamento NEXLIC no LinkedIn já foi publicado.
+- Watchlist para investigação futura, sem desviar da primeira receita: trycompai/crm (agent-first CRM), every-app/open-seo, dgtlmoon/changedetection.io, JCodesMore/ai-website-cloner-template, hugohe3/ppt-master, D4Vinci/Scrapling e PaddlePaddle/PaddleOCR.
+- Regra: não migrar stack nem reconstruir infraestrutura agora; avaliar apenas quando houver impacto claro em receita/custo/operação. Prioridade continua primeira venda Founding 20 €79.
