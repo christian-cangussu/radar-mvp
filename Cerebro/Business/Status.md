@@ -121,3 +121,27 @@ https://www.paypal.com/ncp/payment/PLB-NVF56AYGCHAC
 ⚠️ Nenhum outreach enviado: o fato de um contato comercial estar publicamente listado não foi tratado como consentimento automático para email promocional. O contato fica registrado para abordagem somente quando houver base/rota permitida.
 
 🎯 Próximo gate: aprofundar requisitos técnicos/solvência do ENAIRE e, se o match continuar defensável, construir preview Connectis com ENAIRE como oportunidade âncora; Sareb entra apenas se requisitos específicos não invalidarem o fit.
+
+---
+
+## 2026-09-24 05:23 — Gate ENAIRE/Connectis aprofundado
+
+✅ Produção medida: Netlify deploy atual `6ab497681488fb000868e714` está `ready`; nenhum código alterado.
+
+✅ Supabase medido: `public.leads` continua 0; companies 3; opportunities 6; company_opportunities 9.
+
+✅ Gmail: busca inbound das últimas 24h por NEXLIC/licitação/contratação pública retornou 0 mensagens.
+
+✅ PayPal: link `PLB-NVF56AYGCHAC` continua ACTIVE a €79. Consulta de transações desde 23/09 retornou 0 itens; primeiro pagamento ainda não ocorreu.
+
+✅ Metricool: lançamento NEXLIC segue PENDING para LinkedIn às 11:00 Europe/Madrid.
+
+🔎 ENAIRE DNA 260/2026 confirmado em fonte pública atual: aberto até 05/10/2026 23:59, CPV 72232000, €1.495.000 sem IVA / €5.980.000 valor estimado, dois lotes (€1.171.000 implementação; €324.000 controlo/testes). O escopo HERÓN 4 inclui BPM/RPA/IDP/Process Mining/IA Gen; resumo público do pliego aponta Appian + UiPath e requisitos de perfis/certificações.
+
+🔎 Connectis mantém forte afinidade técnica: adjudicação pública de UiPath em 21/09/2026 e histórico de RPA/UiPath. IDEPA confirma publicamente ISO 9001 e ISO 20000. Porém nesta revisão NÃO foram verificados ISO 14001 nem os níveis de parceria Appian/UiPath indicados no resumo público do pliego.
+
+⚠️ Resultado do gate: ENAIRE é oportunidade relevante para preview, mas elegibilidade Connectis NÃO está confirmada. Não mover a Preview Ready nem afirmar “puede licitar” até validar requisitos excluyentes. O enquadramento correto é “alta afinidad técnica — validar requisitos”.
+
+✅ Close atualizado com nota factual no lead Connectis (atividade `acti_WfloF1Z2yxk4Itl9fwAptCWsuADj3p0oFhX9zUAUSLO`). Nenhum outreach enviado.
+
+🎯 Próximo passo: obter/validar os requisitos oficiais completos do PCAP/PPT (especialmente ISO 14001, partner Appian/UiPath, solvência e equipa mínima). Se Connectis passar, construir preview; se falhar, descartar ENAIRE sem tentar forçar o match e avançar ao próximo prospect.
