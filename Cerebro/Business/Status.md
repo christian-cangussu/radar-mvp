@@ -90,3 +90,9 @@
 - Metricool: consulta de analytics LinkedIn para 24/09 até 12:22 retornou `rows: []`. Isso não contradiz as 4 visualizações vistas manualmente pelo owner; indica atraso/ausência de ingestão no conector. Não usar Metricool ainda como fonte de alcance intradiário.
 - Pesquisa de oportunidades para RETINEO encontrou contratos de construção/rehabilitação abertos, mas nenhum match estrutural suficientemente específico e defensável para promover a preview. Exemplo descartado como amplo demais: expediente 827/2026 em Cervera de Pisuerga (€977.417,80; prazo 07/10), apesar de incluir CPV 44112000; não forçar fit por CPV isolado.
 - PERSEUS permanece o ativo comercial mais pronto; bloqueio de conversão segue sendo canal de outreach individual executável.
+
+
+## 2026-09-24 — PERSEUS preview reforçado
+- Encontrada oportunidade oficial adicional: Canal de Isabel II, expediente 265-2025, Serviços de Cibersegurança, em prazo até 08/10/2026 23:59; €5M orçamento base sem impostos / €6,25M valor estimado; 3 lotes (SOC/inteligência, OTS, riscos/normativa/maturidade).
+- Adicionada ao preview PERSEUS como terceiro match, **sem afirmar elegibilidade**; PPT confidencial e PCAP continuam gate.
+- Resultado: preview comercial PERSEUS agora demonstra 3 oportunidades abertas e atuais, aumentando a densidade de valor antes do outreach.
