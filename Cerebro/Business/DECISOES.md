@@ -66,3 +66,10 @@ Depois de incidentes de build, adota-se:
 - uma mudança lógica por vez;
 - ler erro exato;
 - build verde antes da próxima alteração.
+
+### D-008 — 2026-09-24 — Semântica do pipeline
+Criado estágio **Qualified Prospect** antes de Preview Ready.
+
+Motivo:
+uma empresa pesquisada com bom ICP e matches preliminares não deve aparecer como se um preview já estivesse construído. A progressão correta passa a ser:
+Qualified Prospect → Preview Ready → Demo Completed → Proposal Sent → Contract Sent → Won/Lost.
