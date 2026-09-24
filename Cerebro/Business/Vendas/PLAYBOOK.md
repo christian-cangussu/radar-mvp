@@ -97,3 +97,17 @@ Prometer:
 - priorização;
 - resumo;
 - contexto melhor para decidir.
+
+## Watchlist de qualificação
+
+### Connectis ICT Services, S.A.U. — 2026-09-24
+Sinal observado: catálogo de adjudicações públicas registra 100 adjudicações em 55 denominações de organismos, com atividade observada até 25/06/2026, principalmente serviços informáticos.
+
+Estado: **pesquisa, não prospect em pipeline ainda**.
+
+Gate para promover a Preview Ready:
+1. confirmar dimensão/ICP atual;
+2. encontrar 2–5 licitações realmente abertas e compatíveis;
+3. verificar fonte oficial e deadlines;
+4. identificar decisor/rota de contato permitida;
+5. só então criar preview e Close opportunity.
