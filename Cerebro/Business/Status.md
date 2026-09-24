@@ -47,3 +47,25 @@
 - Aprendizado comercial: distinguir convite a candidatar-se, recebimento de candidatura, entrevista e contratação; cada estágio exige evidência própria.
 - Repositório confirmado público. Correspondência e dados pessoais permanecem no registro privado de oportunidades; esta nota não publica mensagens nem destinatários privados.
 - Detalhamento público: `Cerebro/Business/PROSPECCAO.md`.
+
+---
+
+## 2026-09-24 10:28 — PERSEUS promovida a Qualified Prospect no CRM
+
+✅ Produção: Netlify deploy atual `6ab4ab647a16c800080b681f` está `ready`; nenhum código alterado.
+
+📨 Gmail: a busca NEXLIC/licitação encontrou apenas email promocional da própria Close (`Close + Nexlic`), não inquiry de cliente.
+
+📣 Metricool: lançamento NEXLIC no LinkedIn continua PENDING para 11:00 Europe/Madrid; TikTok não relacionado ao Business publicou normalmente às 10:00.
+
+⚠️ PayPal: tentativa de revalidar o payment link retornou 403 do conector nesta rodada. O link tinha sido confirmado ACTIVE anteriormente; não declarar mudança de status sem evidência. Nenhuma ação de pagamento foi alterada.
+
+### PERSEUS CIBERSEGURIDAD, S.L.
+- Evidência histórica forte e recente: adjudicação de €615.785 para segurança perimetral da Autoridad Portuaria de Bilbao; acordo marco CrowdStrike com LANTIK; trabalhos com EJIE.
+- Match âncora aberto: **EJIE-2026-114 — Renovación del sistema de Firewalls y plataforma de seguridad asociada en Cyberzaintza**. Deadline 08/10/2026 10:00; €198.347,11 sem IVA; CPVs 32500000, 48730000, 50332000. Fit forte por domínio, geografia e relação prévia com EJIE, mas elegibilidade ainda não confirmada.
+- Segundo match aberto: **CABB exp. 3307 — gestão/operação/manutenção/monitorização de infraestrutura de rede e segurança IT**. Deadline 30/09/2026 13:00; €400.000 base / €1,2M valor estimado; CPVs incluem 72315000/72700000. Fit técnico/geográfico forte, requisitos do PCAP/PPT ainda por validar.
+- Close lead criado: `lead_dxIwjxJ0rFMp2JTzi4lLSMW6FjHIJqTYGkZh1jeJit1` (lead status Potential, coerente com sem contato).
+- Close opportunity criada: `oppo_303HO7BIqO4II1HqFfhuieJir2oCowTTZrNMcV9p0RJ`, estágio **Qualified Prospect**, €79/mês, confiança 10%.
+- Nenhum outreach enviado.
+
+🎯 Próximo gate: revisar PCAP/PPT dos dois matches PERSEUS, eliminar qualquer incompatibilidade material e identificar decisor/rota de contato permitida. Se sobreviver, construir preview e mover para Preview Ready.
