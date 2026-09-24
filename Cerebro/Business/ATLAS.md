@@ -148,3 +148,10 @@ Até o primeiro cliente:
 
 Depois do primeiro cliente:
 > MRR + retenção + oportunidades relevantes entregues por cliente.
+
+
+## §10 — Hosting / continuidade (2026-09-24)
+- Netlify exibiu aviso de **operational credits**: sites publicados seguem online, mas production deploys e Agent Runners estão pausados até próximo ciclo ou upgrade.
+- Não gastar com upgrade Netlify agora.
+- Decisão do owner para executar em casa: migrar o repositório NEXLIC para **Coolify** e comprar/configurar domínio próprio. Compra/domínio requer ação/autorização do owner; não executar custo automaticamente.
+- Até a migração, prioridade comercial continua primeira receita; não tratar impossibilidade de deploy Netlify como motivo para parar prospecção.
