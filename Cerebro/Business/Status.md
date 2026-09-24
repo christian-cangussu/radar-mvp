@@ -97,3 +97,27 @@ https://www.paypal.com/ncp/payment/PLB-NVF56AYGCHAC
 ✅ Criado estágio **Qualified Prospect** no pipeline para não confundir empresa pesquisada com preview efetivamente construído. Connectis está nesse estágio; nenhum contato foi feito.
 
 🎯 Próximo gate Connectis: revisar pliegos das melhores 2–5 oportunidades, confirmar matches defensáveis e identificar decisor/rota de contato permitida; só então construir preview e mover a Preview Ready.
+
+---
+
+## 2026-09-24 05:20 — Validação de fit e contato comercial Connectis
+
+✅ Produção medida: Netlify deploy `6ab47bdf2d3b42000813920d` está `ready`; nenhum código alterado.
+
+✅ Supabase medido: `public.leads` continua com **0 rows**; companies 3, opportunities 6, company_opportunities 9.
+
+✅ Gmail e Close: nenhum inbound comercial novo no intervalo desta rodada.
+
+✅ PayPal: link Founding 20 `PLB-NVF56AYGCHAC` continua ACTIVE a €79.
+
+✅ Metricool: post de lançamento NEXLIC continua PENDING para LinkedIn às 11:00 Europe/Madrid.
+
+🔎 Connectis: o fit de ENAIRE DNA 260/2026 ganhou evidência forte. O expediente aberto é CPV 72232000, dois lotes de automação/digitalização, orçamento €1,495M sem IVA e valor estimado €5,98M, prazo 05/10/2026. Além disso, há evidência histórica de Connectis em CPV 72232000 via UTE e de execução de projetos RPA/automação; Connectis também foi adjudicatária recente da própria ENAIRE em 2026 (SCADA ACC Sevilla). Isso torna ENAIRE um match muito mais defensável que mera similaridade textual.
+
+🔎 Sareb 2026-P147 continua aberto até 01/10/2026, CPVs 72222300/72267000, valor estimado €116.658,36 sem IVA. Connectis tem 72267000 entre seus CPVs recorrentes, portanto permanece candidato de preview, mas a adequação técnica específica à plataforma Ariadna ainda não foi provada.
+
+✅ Rota comercial identificada sem enriquecimento privado: Localret publica Núria Bota Costa como contato comercial de Connectis ICT Services SAU/Getronics, com email corporativo `nuria.bota@getronics.com` e telefone +34 648 901 817. Contato criado no Close: `cont_pSSDs8DyzAbHXFS8EOsjn03lmxYhDtScOnFJHuDnvgm`.
+
+⚠️ Nenhum outreach enviado: o fato de um contato comercial estar publicamente listado não foi tratado como consentimento automático para email promocional. O contato fica registrado para abordagem somente quando houver base/rota permitida.
+
+🎯 Próximo gate: aprofundar requisitos técnicos/solvência do ENAIRE e, se o match continuar defensável, construir preview Connectis com ENAIRE como oportunidade âncora; Sareb entra apenas se requisitos específicos não invalidarem o fit.
