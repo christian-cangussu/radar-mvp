@@ -98,16 +98,34 @@ Prometer:
 - resumo;
 - contexto melhor para decidir.
 
-## Watchlist de qualificação
+## Pipeline semantics
+
+- **Qualified Prospect** = empresa com evidência forte de ICP + oportunidades abertas preliminares, mas sem preview construído.
+- **Preview Ready** = preview real já construído e verificável.
+- Depois: Demo Completed → Proposal Sent → Contract Sent → Won/Lost.
+
+## Prospects qualificados
 
 ### Connectis ICT Services, S.A.U. — 2026-09-24
-Sinal observado: catálogo de adjudicações públicas registra 100 adjudicações em 55 denominações de organismos, com atividade observada até 25/06/2026, principalmente serviços informáticos.
 
-Estado: **pesquisa, não prospect em pipeline ainda**.
+Estado: **Qualified Prospect**, Close lead `lead_euk4ykteZonN0QT3Cu7nVIDrJ4Dz80FdFQEXtQ3dRvy`.
 
-Gate para promover a Preview Ready:
-1. confirmar dimensão/ICP atual;
-2. encontrar 2–5 licitações realmente abertas e compatíveis;
-3. verificar fonte oficial e deadlines;
-4. identificar decisor/rota de contato permitida;
-5. só então criar preview e Close opportunity.
+Evidência de ICP:
+- Alicitar indexa 345 adjudicações e €45,29M; 97 adjudicações em 2026;
+- CPVs recorrentes: 72000000, 72200000, 72230000, 72267000, além de telecom/manutenção;
+- atividade pública recente em software, IA e infraestrutura.
+
+Matches abertos preliminares em 24/09/2026:
+1. Sareb 2026-P147 — suporte/manutenção software — €141.157 — deadline 01/10.
+2. ENAIRE DNA 260/2026 — automação de processos — €1.808.950 — deadline 05/10.
+3. BILBAOTIK EUS-202609097GB — serviço externo de sistemas — €150.000 — deadline 16/10.
+4. Banco de España — SDA IA/nuevas tecnologías — valor estimado €5M — em prazo.
+
+Gate para Preview Ready:
+1. revisar pliegos/requisitos dos melhores matches;
+2. descartar incompatíveis;
+3. confirmar 2–5 matches defensáveis;
+4. identificar decisor e rota de contato permitida;
+5. construir preview verificável.
+
+Nenhum contato realizado ainda.
