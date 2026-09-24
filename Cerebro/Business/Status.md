@@ -39,3 +39,11 @@
 - Estado: **watchlist qualificada / experimento**, abaixo de Retineo e Perseus; sem outreach.
 
 🎯 Próximo gate: localizar 2–5 oportunidades realmente abertas e atuais para Retineo e Perseus, validar requisitos mínimos e só então construir previews. USABI entra depois se houver matches de tamanho apropriado.
+
+## 2026-09-24 — Qualificação e privacidade da prospecção
+
+- Revalidada fonte oficial https://careers.valeriahr.com/jobs/8078448-mid-ai-engineer: exige 3+ anos profissionais; projetos próprios não devem ser apresentados como equivalentes a esse requisito.
+- https://eferwebscencia.com/colabora-con-nosotros/ é convite público genérico a freelancers, não comprovação de demanda por uma integração específica.
+- Aprendizado comercial: distinguir convite a candidatar-se, recebimento de candidatura, entrevista e contratação; cada estágio exige evidência própria.
+- Repositório confirmado público. Correspondência e dados pessoais permanecem no registro privado de oportunidades; esta nota não publica mensagens nem destinatários privados.
+- Detalhamento público: `Cerebro/Business/PROSPECCAO.md`.
