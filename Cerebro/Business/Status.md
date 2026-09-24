@@ -84,3 +84,9 @@
 - Opportunity Close `oppo_303HO7BIqO4II1HqFfhuieJir2oCowTTZrNMcV9p0RJ` promovida de Qualified Prospect para **Preview Ready**, €79/mês, confiança 20%.
 - Mensagem individual de LinkedIn preparada no Close (nota `acti_eZNkX0dYAaFXemy5ZGlOUMoxyOmYedjJM6wriAcYLEv`). Não enviada porque o conector LinkedIn disponível permite pesquisa, não envio de mensagens; não substituir por cold email administrativo.
 - Próxima ação que exige canal: enviar a abordagem individual ao CEO via LinkedIn e, em caso de resposta, entregar o preview e CTA Founding 20 €79.
+
+## 2026-09-24 12:22 — monitorização pós-launch
+- Gmail: busca recente por NEXLIC/licitação/contratação retornou 0 mensagens novas; nenhum inbound comercial detectado.
+- Metricool: consulta de analytics LinkedIn para 24/09 até 12:22 retornou `rows: []`. Isso não contradiz as 4 visualizações vistas manualmente pelo owner; indica atraso/ausência de ingestão no conector. Não usar Metricool ainda como fonte de alcance intradiário.
+- Pesquisa de oportunidades para RETINEO encontrou contratos de construção/rehabilitação abertos, mas nenhum match estrutural suficientemente específico e defensável para promover a preview. Exemplo descartado como amplo demais: expediente 827/2026 em Cervera de Pisuerga (€977.417,80; prazo 07/10), apesar de incluir CPV 44112000; não forçar fit por CPV isolado.
+- PERSEUS permanece o ativo comercial mais pronto; bloqueio de conversão segue sendo canal de outreach individual executável.
