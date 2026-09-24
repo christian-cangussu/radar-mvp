@@ -113,19 +113,26 @@ Estado: **Qualified Prospect**, Close lead `lead_euk4ykteZonN0QT3Cu7nVIDrJ4Dz80F
 Evidência de ICP:
 - Alicitar indexa 345 adjudicações e €45,29M; 97 adjudicações em 2026;
 - CPVs recorrentes: 72000000, 72200000, 72230000, 72267000, além de telecom/manutenção;
-- atividade pública recente em software, IA e infraestrutura.
+- atividade pública recente em software, IA e infraestrutura;
+- UTE Connectis/Global Rosetta tem adjudicações no CPV 72232000;
+- Connectis ganhou projeto RPA em 2025 e contrato recente da ENAIRE em 2026, reforçando experiência em automação e relação com o órgão.
 
 Matches abertos preliminares em 24/09/2026:
-1. Sareb 2026-P147 — suporte/manutenção software — €141.157 — deadline 01/10.
-2. ENAIRE DNA 260/2026 — automação de processos — €1.808.950 — deadline 05/10.
-3. BILBAOTIK EUS-202609097GB — serviço externo de sistemas — €150.000 — deadline 16/10.
-4. Banco de España — SDA IA/nuevas tecnologías — valor estimado €5M — em prazo.
+1. **ENAIRE DNA 260/2026 — oportunidade âncora atual.** Automação/digitalização; CPV 72232000; €1.495.000 sem IVA, valor estimado €5.980.000; deadline 05/10. Dois lotes: análise/desenho/implementação e controlo/supervisão/testes. Fit reforçado por histórico Connectis no mesmo CPV, RPA e ENAIRE.
+2. Sareb 2026-P147 — suporte/manutenção software — €116.658,36 sem IVA — deadline 01/10 — CPVs 72222300/72267000. Fit de categoria existe, mas requisitos técnicos específicos da plataforma Ariadna ainda precisam ser verificados.
+3. BILBAOTIK EUS-202609097GB — serviço externo de sistemas — €150.000 — deadline 16/10 — ainda preliminar.
+4. Banco de España — SDA IA/nuevas tecnologías — valor estimado €5M — ainda preliminar.
+
+Contato comercial público identificado:
+- Núria Bota Costa — contato comercial Connectis/Getronics publicado pelo Consorci Localret.
+- Close contact: `cont_pSSDs8DyzAbHXFS8EOsjn03lmxYhDtScOnFJHuDnvgm`.
+- Não contatar automaticamente: publicação de email comercial não equivale, por si só, a consentimento para campanha promocional.
 
 Gate para Preview Ready:
-1. revisar pliegos/requisitos dos melhores matches;
-2. descartar incompatíveis;
-3. confirmar 2–5 matches defensáveis;
-4. identificar decisor e rota de contato permitida;
+1. revisar pliegos/requisitos do ENAIRE, especialmente solvência e requisitos técnicos;
+2. confirmar que não há incompatibilidade material;
+3. manter 2–5 matches defensáveis, descartando os fracos;
+4. definir rota de contato permitida;
 5. construir preview verificável.
 
 Nenhum contato realizado ainda.
