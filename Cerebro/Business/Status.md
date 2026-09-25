@@ -52,3 +52,16 @@
 - Individual outreach SENT to Carlos/Recodme, Gmail id 1a0d820f077df1aa. Positioning: Decision Twin / fewer wasted tender-review hours; CTA reply 'preview'; Founding 20 €79/month; product URL nexlic.netlify.app.
 - Individual outreach SENT to Rafael/SOTEC, Gmail id 1a0d820f913f3c64. Same offer adapted to SOTEC; CTA reply 'preview'; €79/month.
 - This is intentionally two high-context individual messages, not a batch campaign. Next action: monitor replies, then send personalized preview immediately to any positive response and move toward payment/conversion.
+
+
+## 2026-09-25 13:50 — Job/freelance revenue push
+- User explicitly requested active search for paid work, not only NEXLIC sales.
+- Current job search via Indeed/official careers identified Landbot Customer Solutions Engineer as a high-relevance target: remote Spain, Barcelona/Madrid, €27k–€35k, role includes APIs, integrations, JavaScript, n8n, automation and AI. Important mismatch kept explicit: listing asks fluent English; Christian's verified CV supports technical English reading/writing but not a claim of fluent spoken English.
+- Saved technical CV located in Library: CV_Christian_ES_tech(1).pdf; used without altering its claims.
+- Application email SENT to official Landbot talent address talent@landbot.io with CV attached, tailored to Customer Solutions Engineer and transparent English-level note. Gmail message id: 1a0d866ade3042d1.
+- Freelance discovery found NUBO's active 18/09/2026 call for an ongoing n8n + AI Automation Builder working project-by-project for Spain/LATAM. Public evidence: n8n, OpenAI/Claude/Gemini, APIs/webhooks, CRM/WhatsApp, troubleshooting and JS/Python snippets.
+- Clay identified Javier Arguedas as Nubo Co-Founder & CTO in Barcelona and verified work email javierarguedas@nubocr.com. Gmail dedupe returned no prior contact.
+- Direct individual application/pitch SENT to Javier, offering a small paid first task and accurately stating Christian's stack (n8n self-hosted, Evolution API, LLMs, Postgres/Supabase, Docker/Coolify, Python/JS). Gmail message id: 1a0d8641ce241bc1.
+- Close CRM: created Nubo lead lead_PCC9uBsOBiUPC0d5AetdyotuchGygzi0RIgNAVCEdNx and Javier contact cont_C4uZR2amrGNNyOcQZ4hZkS0rvGJ8Q9Cj7OAkxtOGLB6.
+- Current freelance market evidence also surfaced Upwork projects strongly matching Christian's stack, including n8n + WhatsApp + Evolution API + OpenAI ($100 test/contract-to-hire), n8n/API/AI agency work ($350 fixed, ongoing), and smaller workflow automation tasks. No Upwork application claimed because there is no connected Upwork action and no proposal-credit purchase authorized.
+- AI Freelance Hunter automation expanded to include salaried/contract jobs plus freelance work and now runs daily at 09:00, 13:00, 16:00 and 20:00 Europe/Madrid. It may submit only where connected tools can do so safely with verified data; otherwise it uses verified direct recruiter/decision-maker outreach. No invented qualifications, salary, availability, deadlines or contract acceptance.
