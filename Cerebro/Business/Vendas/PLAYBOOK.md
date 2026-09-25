@@ -174,3 +174,11 @@ Gate para Preview Ready:
 - construir preview somente se pelo menos os matches sobreviventes forem defensáveis.
 
 Nenhum outreach realizado.
+
+### New qualified prospects — 2026-09-25
+
+**SEPALO SOFTWARE S.L.** — Qualified Prospect. Small Spanish software company focused on citizen kiosks/cards, secure payments and digital public-service solutions. Public-contract sources index 11 awards / €514k, latest 15/09/2026 (Alicante citizen-kiosk evolution). Company site showcases multiple municipalities/institutions. Best route: Joaquín Muñoz Domínguez, Director Comercial; fallback Antonio Ramos, CEO. NEXLIC hypothesis: recurring municipal/public-sector niche + lean team makes opportunity filtering and bid/no-bid prioritization valuable. Gate: 2–5 open matches + requirement review before Preview Ready.
+
+**Trevenque Sistemas de Información S.L.** — Qualified Prospect. Spanish IT/software group, 51–200 employees. PLACSP-derived data shows 7 awards / €205.6k in 2026 across six public bodies; official Euskadi procurement records also confirm active bidding, including tenders it did not win. Best route: Vital Moles Defior, Director Comercial. NEXLIC hypothesis: broad IT/software catalogue and demonstrated bidding across geographies creates discovery/prioritization overhead. Gate: 2–5 open matches + requirement review before Preview Ready.
+
+**SGRSOFT SL** — watchlist, not promoted. Small software company (26–50 employees) with 2 awards / €2.89M in 2026 and €5.47M historical public awards, but activity is highly concentrated around ERP support for CERSA/SAECA; test whether enough addressable open tenders exist before pipeline promotion.
