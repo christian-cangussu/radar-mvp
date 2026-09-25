@@ -42,3 +42,13 @@
 - PayPal: 0 transações no refresh disponível; last_refreshed_datetime 2026-09-25T05:29:59Z. Não inferir pagamentos depois desse timestamp.
 - ATECSUR: outreach individual já enviado às 09:55 para administracion@iatecsur.com à atenção de José Antonio Delgado Ramos; não duplicar contato agora. Próximo passo é preview defensável com expedientes abertos e PCAP/PPT validados.
 - Prioridade comercial continua: converter preview individual em conversa/Founding 20 €79, sem mass cold email e sem alegar elegibilidade não comprovada.
+
+
+## 2026-09-25 12:32 — Direct sales push
+- Owner explicitly requested a seller-like autonomous push: find client, talk to them, sell; still respecting no mass cold email / no fabricated eligibility / no paid actions.
+- Close reviewed: 7 active prospects surfaced. PERSEUS remains already contacted/waiting, so no duplicate outreach.
+- Clay refreshed decision-makers for existing Preview prospects. Recodme: Carlos Garcia Diaz, Business Development Director (since 2026-05), verified work email carlos.diaz@recodme.es. SOTEC: Rafael Fernandez Carbo, Business Development Manager, verified work email rafael.fernandez@sotec.es.
+- Gmail dedupe performed for both addresses/companies: no prior sales contact found (only unrelated Vercel deployment messages matched company strings).
+- Individual outreach SENT to Carlos/Recodme, Gmail id 1a0d820f077df1aa. Positioning: Decision Twin / fewer wasted tender-review hours; CTA reply 'preview'; Founding 20 €79/month; product URL nexlic.netlify.app.
+- Individual outreach SENT to Rafael/SOTEC, Gmail id 1a0d820f913f3c64. Same offer adapted to SOTEC; CTA reply 'preview'; €79/month.
+- This is intentionally two high-context individual messages, not a batch campaign. Next action: monitor replies, then send personalized preview immediately to any positive response and move toward payment/conversion.
