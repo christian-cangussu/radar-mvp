@@ -21,3 +21,13 @@
 - SEPALO: small software company (roughly 26–50 / 40 employees in public company sources), 11 public awards / €514k indexed, latest 15/09/2026; sells citizen kiosks/cards and explicitly showcases municipalities/institutions. Decision-maker candidates found: Joaquín Muñoz Domínguez (Director Comercial) and Antonio Ramos (CEO).
 - Trevenque: 51–200 employees, active public bidder; official Euskadi procurement record confirms participation in 2026 tenders, including a loss against another bidder, while PLACSP-derived sources show 7 awards / €205.6k in 2026 across 6 public bodies. Decision-maker: Vital Moles Defior (Director Comercial).
 - No outreach sent. Next gate: find 2–5 currently open, defensible opportunities for SEPALO/Trevenque and validate minimum requirements before Preview Ready.
+
+
+## 2026-09-25 09:55 — Prospecção e outreach NEXLIC
+- Conector GitHub revalidado: leitura e escrita via Contents API disponíveis; bloqueio anterior não é estrutural.
+- Novo prospect confirmado: Ingeniería Atecsur S.L. (Granada), engenharia civil, ~38 colaboradores segundo Clay/LinkedIn.
+- Evidência pública: múltiplas adjudicações recentes em setembro de 2026, incluindo lotes de redação de projetos do Ayuntamiento de Mijas; contrato de coordenação de segurança e saúde do Ayuntamiento de Murcia por 253.367,80 € + IVA; histórico público recorrente de contratação.
+- Decisor identificado: José Antonio Delgado Ramos, Director General.
+- Dedupe Gmail executado com in:anywhere: nenhum contato anterior com ATECSUR encontrado.
+- Outreach enviado a administracion@iatecsur.com, à atenção de José Antonio, oferecendo preview gratuito personalizado e Founding 20 a 79 €/mês. Gmail message id: 1a0d785116bdde81.
+- Próximo passo: preparar preview apenas com oportunidades públicas atualmente abertas e compatíveis; não afirmar elegibilidade sem validar requisitos.
