@@ -31,3 +31,14 @@
 - Dedupe Gmail executado com in:anywhere: nenhum contato anterior com ATECSUR encontrado.
 - Outreach enviado a administracion@iatecsur.com, à atenção de José Antonio, oferecendo preview gratuito personalizado e Founding 20 a 79 €/mês. Gmail message id: 1a0d785116bdde81.
 - Próximo passo: preparar preview apenas com oportunidades públicas atualmente abertas e compatíveis; não afirmar elegibilidade sem validar requisitos.
+
+
+## 2026-09-25 11:17 — Launch verified + revenue run
+- Owner autorizou seguir autonomamente para vender o produto dentro das guardrails já definidas.
+- LinkedIn NEXLIC Decision Twin foi publicado com sucesso às 11:00 (share urn:li:share:7509175700646469632). O conflito anterior de dois posts não resultou em bloqueio do post NEXLIC; o post técnico Nivrael falhou com LinkedIn 400 media type validation, portanto não competiu como publicação bem-sucedida.
+- Analytics do LinkedIn imediatamente após publicação ainda retornam zero rows; não inferir alcance/cliques até Metricool ingerir métricas.
+- Gmail: nenhum inbound comercial NEXLIC detectado no refresh; email operacional relevante do Metricool confirma falha de um post planejado.
+- Close: busca de inbound desde 25/09 retornou 0 resultados, com limitação parcial declarada pelo próprio conector para classificação de WhatsApp/form; não tratar como prova absoluta para esses canais.
+- PayPal: 0 transações no refresh disponível; last_refreshed_datetime 2026-09-25T05:29:59Z. Não inferir pagamentos depois desse timestamp.
+- ATECSUR: outreach individual já enviado às 09:55 para administracion@iatecsur.com à atenção de José Antonio Delgado Ramos; não duplicar contato agora. Próximo passo é preview defensável com expedientes abertos e PCAP/PPT validados.
+- Prioridade comercial continua: converter preview individual em conversa/Founding 20 €79, sem mass cold email e sem alegar elegibilidade não comprovada.
