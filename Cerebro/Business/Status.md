@@ -65,3 +65,11 @@
 - Close CRM: created Nubo lead lead_PCC9uBsOBiUPC0d5AetdyotuchGygzi0RIgNAVCEdNx and Javier contact cont_C4uZR2amrGNNyOcQZ4hZkS0rvGJ8Q9Cj7OAkxtOGLB6.
 - Current freelance market evidence also surfaced Upwork projects strongly matching Christian's stack, including n8n + WhatsApp + Evolution API + OpenAI ($100 test/contract-to-hire), n8n/API/AI agency work ($350 fixed, ongoing), and smaller workflow automation tasks. No Upwork application claimed because there is no connected Upwork action and no proposal-credit purchase authorized.
 - AI Freelance Hunter automation expanded to include salaried/contract jobs plus freelance work and now runs daily at 09:00, 13:00, 16:00 and 20:00 Europe/Madrid. It may submit only where connected tools can do so safely with verified data; otherwise it uses verified direct recruiter/decision-maker outreach. No invented qualifications, salary, availability, deadlines or contract acceptance.
+
+
+## 2026-09-25 17:49 — NUBO hot lead advanced
+- User explicitly authorized sending the NUBO follow-up and continuing execution without routine confirmation.
+- Gmail thread read in full. Javier Arguedas (Nubo Co-Founder & CTO) asked three prequalification questions before a possible call: hourly/project rate, weekly availability, and a visual project/demo outside GitHub.
+- Reply SENT in-thread, Gmail id 1a0d9427026be8c7: proposed €30/h for open/troubleshooting work; for scoped projects, review brief and quote fixed price before starting; stated 8–10 h/week stable availability with possible planned expansion; shared live demos https://nivrael.com and https://nexlic.netlify.app; offered an anonymized n8n workflow walkthrough rather than exposing private/client credentials or workflows.
+- Close CRM: created active Qualified Prospect opportunity oppo_0gXQwnD6NFxU5VdWXaTf3vyQkB6oW0iFwfvFK1pfjlf for Nubo/Javier at 45% confidence, no value assigned yet because no project scope or agreed price exists.
+- Next action: if Javier sends a brief, answer with a concrete scoped approach and fixed quote; if he asks for a call, schedule only after time parameters are known. Do not fabricate client work or expose private workflows/credentials.
