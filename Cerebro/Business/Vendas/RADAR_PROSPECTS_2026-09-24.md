@@ -47,3 +47,12 @@ Não mover para Preview Ready até existir preview verificável com 2–5 oportu
 ### SGRSOFT SL — watchlist
 - 26–50 funcionários; 2 adjudicações / €2,89M em 2026, €5,47M histórico.
 - Não promover ainda: contratação pública aparenta concentração elevada em ERP CERSA/SAECA.
+
+
+## 2026-09-25 — Ingeniería Atecsur
+- Empresa: Ingeniería Atecsur S.L. — Granada — engenharia civil/ambiental — SME (~38 colaboradores).
+- Sinal: adjudicações públicas recentes em Mijas (set/2026) e contrato Ayuntamiento de Murcia de 253.367,80 € + IVA; atividade pública recorrente.
+- ICP: forte — engenharia + setor público + equipa compacta + volume recorrente.
+- Decisor: José Antonio Delgado Ramos — Director General.
+- Canal: administracion@iatecsur.com (email publicado em anúncio de contratação pública).
+- Estado: outreach enviado 2026-09-25; aguardar resposta antes de follow-up. Oferta: preview gratuito → Founding 20 €79/mês.
