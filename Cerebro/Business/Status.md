@@ -93,3 +93,15 @@
 - Gmail thread: 1a0d86257a7dcf54; sent message: 1a0dc7c1bc9a0e5f.
 - Close: lead_DxOPCDnYe5vsgJYHz40pJF1xdsGcmFBPQfHqGuuVNpo; contato e nota criados.
 - Próximo passo: aguardar resposta; qualquer escopo/preço/compromisso contratual requer validação antes de aceitar.
+
+
+## 2026-09-26 08:51 — Morning revenue recap / overnight agent output
+- Overnight/hourly agents did run (NEXLIC Revenue Agent last run 08:25 Europe/Madrid; Lead Watch last run 08:37 Europe/Madrid).
+- New paid-service prospect generated this morning: Iberia Growth. Close lead exists (lead_DxOPCDnYe5vsgJYHz40pJF1xdsGcmFBPQfHqGuuVNpo) for freelance n8n/Make, CRM, WhatsApp Business, calendars and AI-agent implementation.
+- Individual outreach SENT to Pablo/Iberia Growth at iberiagrowth@gmail.com on 26/09/2026 08:51 Europe/Madrid, Gmail id 1a0dc7c1bc9a0e5f. CTA asks for one concrete workflow/brief so Christian can return a technical diagnosis and implementation plan before scope/price agreement. No price or delivery commitment made.
+- No new replies detected from Javier/NUBO, Vital/Trevenque, Carlos/Recodme, Rafael/SOTEC, ATECSUR or Landbot after yesterday's outreach/follow-up.
+- PayPal: 0 transactions in the available refresh; last_refreshed_datetime 2026-09-26T04:59:59Z (06:59:59 Europe/Madrid), so do not infer payment state after that timestamp.
+- LinkedIn NEXLIC post metrics now available in Metricool: 7 impressions, 1 reaction, 2 unique impressions; no clicks/comments/shares returned in the queried fields. Sample is too small for traction claims.
+- Netlify production still current/green but stale: deploy 6ab4ab647a16c800080b681f, commit d90325490f29ba142af58c6a8e2d65ce77213d39, published 24/09/2026. Auto-deploy still has not moved production to later main commits.
+- IZERTIS research ran overnight and created two duplicate Potential leads in Close within seconds of each other. Both have no activity/opportunity. Do not contact/delete blindly; next CRM-hygiene action should consolidate safely, preserving the stronger combined evidence. Current anchor remains Mogán 2007/2025 Alfresco, deadline 05/10/2026; eligibility not confirmed.
+- No new NEXLIC payment or inbound form lead confirmed this morning. Highest-value near-term commercial thread remains NUBO, followed by the new Iberia Growth freelance lead and Trevenque NEXLIC outreach.
