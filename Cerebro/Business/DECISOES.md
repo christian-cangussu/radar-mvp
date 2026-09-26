@@ -73,3 +73,13 @@ Criado estágio **Qualified Prospect** antes de Preview Ready.
 Motivo:
 uma empresa pesquisada com bom ICP e matches preliminares não deve aparecer como se um preview já estivesse construído. A progressão correta passa a ser:
 Qualified Prospect → Preview Ready → Demo Completed → Proposal Sent → Contract Sent → Won/Lost.
+
+
+## 2026-09-26 — LeadFeed como segunda lane de receita
+Decisão: validar LeadFeed em paralelo, sem substituir NEXLIC.
+- Oferta inicial: 50 prospects B2B / €19 one-time.
+- Regra: máximo de automação e mínima intervenção do owner.
+- Não criar infraestrutura cara nem assinatura sofisticada antes de primeira venda.
+- Reutilizar repo/Supabase/agente horário existentes para reduzir custo e tempo.
+- Checkout LeadFeed deve ser específico; é proibido reutilizar o link de pagamento NEXLIC.
+- Nenhum deploy ou checkout é considerado pronto sem verificação real.
