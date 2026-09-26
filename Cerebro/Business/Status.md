@@ -105,3 +105,16 @@
 - Netlify production still current/green but stale: deploy 6ab4ab647a16c800080b681f, commit d90325490f29ba142af58c6a8e2d65ce77213d39, published 24/09/2026. Auto-deploy still has not moved production to later main commits.
 - IZERTIS research ran overnight and created two duplicate Potential leads in Close within seconds of each other. Both have no activity/opportunity. Do not contact/delete blindly; next CRM-hygiene action should consolidate safely, preserving the stronger combined evidence. Current anchor remains Mogán 2007/2025 Alfresco, deadline 05/10/2026; eligibility not confirmed.
 - No new NEXLIC payment or inbound form lead confirmed this morning. Highest-value near-term commercial thread remains NUBO, followed by the new Iberia Growth freelance lead and Trevenque NEXLIC outreach.
+
+
+## 2026-09-26 10:09 — LeadFeed autonomous validation lane started
+- Owner approved launching a second low-touch business while NEXLIC continues.
+- LeadFeed validation offer fixed at €19 one-time for a founding batch of 50 B2B prospects, Spain-first, delivered digitally.
+- Landing code committed to main: app/leadfeed/page.tsx and app/leadfeed/leadfeed-form.tsx. Signup writes to Supabase public.leads with source='leadfeed' plus sector/location/offer metadata.
+- Supabase Radar read check succeeded and project is ACTIVE_HEALTHY.
+- PayPal read check confirms only NEXLIC Founding 20 payment link is ACTIVE right now. LeadFeed payment-link creation was prefilled (LeadFeed — Lote Fundador (50 leads), €19) but the PayPal connector returned an interactive form, so NO LeadFeed checkout is claimed active yet.
+- Netlify project nexlic is reachable in the connector, but deploy action only returned a CLI handoff command and did not execute deployment. /leadfeed is therefore NOT claimed live yet.
+- Existing hourly NEXLIC Revenue Agent was expanded with a secondary LeadFeed lane: new signup detection, Gmail dedupe, PayPal payment checks, 50-real-lead fulfillment after confirmed payment, low-volume buyer acquisition, fulfillment dedupe, and Business-brain logging. The automation update succeeded.
+- An immediate run of the updated agent was requested successfully. This confirms only that the run was queued/requested, not its completion.
+- Dedicated LeadFeed brain note created at Cerebro/Business/Projetos/LEADFEED.md.
+- Remaining owner-interaction gate: PayPal requires the interactive creation form to be submitted before an ACTIVE LeadFeed payment URL exists.
