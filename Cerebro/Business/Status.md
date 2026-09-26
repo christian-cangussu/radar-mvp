@@ -118,3 +118,13 @@
 - An immediate run of the updated agent was requested successfully. This confirms only that the run was queued/requested, not its completion.
 - Dedicated LeadFeed brain note created at Cerebro/Business/Projetos/LEADFEED.md.
 - Remaining owner-interaction gate: PayPal requires the interactive creation form to be submitted before an ACTIVE LeadFeed payment URL exists.
+
+
+## 2026-09-26 15:xx — KB DIGITAL freelance outreach
+- Novo buyer qualificado: KB DIGITAL / KB ASSISTENCE GROUP S.L. Oferta pública de 23/09/2026 para freelancer técnico IA + automação por projetos: n8n, agentes IA, APIs/webhooks/DB, CRM, WhatsApp/email/calendários; possibilidade de colaboração continuada/manutenção.
+- Decisora/sinal público: Fabiola Castillo Toro; candidatura oficial info@kbgroup.es. Gmail + Close dedupe: zero histórico.
+- Candidatura individual ENVIADA, Gmail id 1a0ddd19e15626cb. Respondeu aos 6 pontos pedidos com stack e projetos verificáveis. Nivrael/NEXLIC explicitamente apresentados como projetos próprios, não casos de cliente.
+- Condições reutilizadas do estado já confirmado com NUBO: €30/h para trabalho aberto/troubleshooting; preço fixo após brief; 8–10 h/semana estáveis, expansão apenas planejada.
+- CTA: KB enviar um primeiro projeto pequeno/brief com sistemas, entregáveis e critérios de aceitação.
+- Close: lead_A53KHraTOef53Kml3MHS68bViQzF8Qh1p3XZDZxWoca / contato Fabiola / nota de outreach criada.
+- Indeed rodada Barcelona: vários resultados AI/Python, mas não foi enviada candidatura automática a vagas com requisitos obrigatórios não comprovados (ex. Entrust pede +2 anos e 3 linguagens OO; Amaris pede 7+ anos e inglês profissional).
