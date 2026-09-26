@@ -83,3 +83,13 @@
 - Individual NEXLIC outreach SENT to Vital, Gmail id 1a0d94482669afba. Message explicitly avoided an eligibility claim, used Vera 416/2026 as an example of an open opportunity worth review, and offered a personalized preview. Founding 20 €79/month included.
 - Close CRM created Trevenque lead lead_iP32wRTifzP54cHoVM8inPCbNOrnjaYMbE0S3djoeZq, contact cont_SpcUTXKlT4HCuZWth76q2uDDpObZ7hU4VIAOeCK7Hxi and Qualified Prospect opportunity oppo_05nXFaaEC5RDUPH9Ke9taqasdrCZax6wOiRsTDdwpSC at €79/month / 15% confidence.
 - Next actions: monitor Javier/NUBO for brief or call request; if Vital replies 'preview', review Vera 416/2026 PCAP/PPT and 1–2 additional current tenders before delivering the preview; avoid duplicate outreach before a reasonable response window.
+
+
+## 2026-09-26 — Iberia Growth freelance outreach
+- Bloqueio anterior resolvido: draft Gmail enviado com sucesso em 26/09/2026.
+- Buyer: Iberia Growth; necessidade pública compatível com n8n/Make, CRM, WhatsApp Business, calendários e agentes IA.
+- Contato: Pablo / iberiagrowth@gmail.com.
+- Mensagem: proposta individual para começar por um workflow real pequeno/diagnóstico; sem prometer preço, prazo ou disponibilidade.
+- Gmail thread: 1a0d86257a7dcf54; sent message: 1a0dc7c1bc9a0e5f.
+- Close: lead_DxOPCDnYe5vsgJYHz40pJF1xdsGcmFBPQfHqGuuVNpo; contato e nota criados.
+- Próximo passo: aguardar resposta; qualquer escopo/preço/compromisso contratual requer validação antes de aceitar.
