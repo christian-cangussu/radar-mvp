@@ -155,3 +155,68 @@ Depois do primeiro cliente:
 - Não gastar com upgrade Netlify agora.
 - Decisão do owner para executar em casa: migrar o repositório NEXLIC para **Coolify** e comprar/configurar domínio próprio. Compra/domínio requer ação/autorização do owner; não executar custo automaticamente.
 - Até a migração, prioridade comercial continua primeira receita; não tratar impossibilidade de deploy Netlify como motivo para parar prospecção.
+
+
+## §11 — Portfólio de domínios NEXLIC (2026-09-27)
+
+Domínios do owner:
+- **nexlic.es** — domínio principal / Espanha / produto comercial principal.
+- **nexlic.online** — produto transacional self-service: análise pontual de licitação / GO-NO-GO / Tender Check.
+- **nexlic.eu** — expansão UE: oportunidades europeias e contratos transfronteiriços.
+- **nexlic.net** — infraestrutura B2B/white-label/API/rede de parceiros; não priorizar antes de haver uso real.
+
+Regra:
+> Não criar quatro empresas independentes. Usar um backend, um CRM, um Cérebro Business e um operador Automaton. Cada domínio testa uma hipótese de receita diferente.
+
+### Oferta por domínio
+
+**nexlic.es — Managed Procurement Intelligence**
+- Free preview;
+- Founding 20 €79/mês enquanto valida;
+- oferta preferida para receita inicial: serviço gerenciado €149–€249/mês;
+- entrega: oportunidades priorizadas, requisitos, riscos e GO/NO-GO.
+
+**nexlic.online — Tender Check**
+- produto avulso e quase automático;
+- cliente envia link/PDF de licitação;
+- recebe resumo executivo + requisitos + riscos + GO/NO-GO;
+- hipótese de preço inicial para teste: €19–€49 por análise;
+- objetivo: gerar primeiro dinheiro sem exigir assinatura.
+
+**nexlic.eu — EU Tender Radar**
+- monitorização de oportunidades UE/TED e contratos transfronteiriços;
+- alvo inicial: empresas espanholas com capacidade de vender fora de Espanha;
+- só ativar comercialmente após validar pipeline espanhol ou encontrar sinal claro de procura.
+
+**nexlic.net — White-label / API / Partner Network**
+- feeds estruturados;
+- análise de pliegos via API;
+- white-label para consultorias de licitações;
+- parceria/subcontratação;
+- alto ticket potencial, mas NEXT, não NOW.
+
+### Estratégia econômica
+
+Ordem de teste:
+1. vender serviço gerenciado em nexlic.es;
+2. lançar Tender Check em nexlic.online;
+3. provar conversão e margem;
+4. só então ativar nexlic.eu;
+5. API/white-label em nexlic.net quando houver clientes/partners reais.
+
+### Operação autônoma desejada
+
+Um único Business Automaton:
+- pesquisa empresas e oportunidades;
+- analisa pliegos;
+- cria previews dinâmicos;
+- atualiza Close;
+- lê inbound;
+- envia por @nexlic.es quando permitido;
+- entrega análise;
+- acompanha pagamento;
+- registra tudo no Cérebro Business;
+- mede receita por domínio e corta experimentos que só gastam compute.
+
+Objetivo:
+> transformar os domínios em experimentos de receita, não em projetos paralelos que consomem atenção.
