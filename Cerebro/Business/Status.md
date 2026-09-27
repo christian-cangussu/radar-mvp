@@ -169,3 +169,15 @@
 - Close created Potential lead lead_IXLjt2AxDbDb2RzzKw04x8cpFnFehuErRFVU1ckY4aI, contact cont_MnYNOlvCAjCcXCBFwdDDEM8dp2yDpH2b2XCfn7DKOp7 and review note acti_7ko0yW4cbbk8i4v0R8KR9UL9VHYv0Al2AqfMqHTz6BH.
 - Inbox/CRM review found no new replies from active job/freelance threads.
 - Next step requiring Christian: send an individual WhatsApp introduction using only verified experience; propose €30/h for open/troubleshooting work or fixed price after a brief and 8–10 h/week stable availability, then request a concrete initial scope and acceptance criteria before committing price or schedule.
+
+
+## 2026-09-27 15:58 — LA household systems paid-phase outreach
+- Business brain read first; Gmail and Close inbound since the prior run contained no replies from active freelance/job threads.
+- Strong paid opportunity verified on the public n8n Jobs forum: a Los Angeles household buyer seeks a privacy-first system using a Mac mini with Ollama/LM Studio, n8n, Notion + Google Workspace, meeting-note ingestion, calendar/document/email-draft workflows and a plain-language runbook.
+- Published commercial terms: US$1,000–2,000 for a defined paid first phase, with possible follow-on build and twice-yearly maintenance. Remote is accepted; occasional Los Angeles visits are mentioned, so Christian offered remote-only delivery and made no travel commitment.
+- Fit used truthfully: self-hosted n8n, APIs/webhooks, PostgreSQL, Google Calendar, Docker/Coolify, Ollama, and own production projects OlaMaestro, Nivrael and NEXLIC. Explicit gap: no prior exact household Notion + Mac mini deployment.
+- Gmail + Close dedupe were clean for the official published address 37jn5k7ti@mozmail.com.
+- Individual application/outreach SENT to the official address, Gmail id 1a0e328c120b3d86. Proposed a bounded milestone: local/cloud data map, one human-approved notes→actions→calendar/email-draft workflow, alerts/backups/runbook, then a small local document-search test. Stated 8–10 h/week; fixed price only after specs and acceptance criteria.
+- Close created Potential lead lead_o7iWq5fit1l7RndxmEUB3WsO1Purd4A2Lj3jUv8KJlM, contact cont_NnusY0Yw2nWxu3qP01nbhUK1uWRHlU3VtoYWZopkSBC and note acti_r1qzeBxjgCYuSCvkhH4mJRX6ELQQuAqbK9ul86LzEll.
+- Salaried search: current official Sysdig Junior AI & Product Enablement role is technically relevant, but it requires working written and spoken English; Christian's saved CV verifies technical reading only, so no application was submitted and no English level was invented.
+- Next: monitor for a reply. Before accepting any NDA, project, price or meeting, confirm fully remote delivery, exact Phase 1 scope, success criteria and payment mechanism.
