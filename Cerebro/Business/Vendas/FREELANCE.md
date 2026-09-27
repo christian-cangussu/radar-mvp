@@ -29,3 +29,16 @@
 - Canal: comentário no fórum + Discord jyotirmoydas_22.
 - Close: lead_IiMBc5mAsr1Gsq2zr32k9qxSBJYfOG3i1ajOSHMlr0Y.
 - Sem garantia de volume; trabalho pago começa após aquisição de cliente pela agência.
+
+
+### LA Household Systems — n8n + Local AI
+- Data verificada: 27/09/2026.
+- Fonte: https://community.n8n.io/t/hiring-part-time-household-cto-n8n-notion-local-llm-home-setup-la-remote/315978
+- Estado: outreach enviado / aguardando resposta.
+- Buyer: família em Los Angeles; nome legal não publicado. Canal oficial: 37jn5k7ti@mozmail.com.
+- Escopo publicado: arquitetura local/cloud privacy-first, Mac mini + Ollama/LM Studio, n8n, Notion + Google Workspace, notas de reunião, calendário, documentos, rascunhos de email e runbook.
+- Orçamento publicado: US$1.000–2.000 para primeira fase paga; possível continuação e manutenção semestral.
+- Fit verificável: n8n self-hosted, APIs/webhooks, PostgreSQL, Google Calendar, Docker/Coolify, Ollama; exemplos próprios OlaMaestro, Nivrael e NEXLIC. Gap declarado: sem case anterior da configuração doméstica exata Notion + Mac mini.
+- Outreach: Gmail 1a0e328c120b3d86, enviado em 27/09/2026. Oferecido somente remoto; 8–10 h/semana; preço fixo somente após brief/especificações/aceitação.
+- Close: lead_o7iWq5fit1l7RndxmEUB3WsO1Purd4A2Lj3jUv8KJlM / cont_NnusY0Yw2nWxu3qP01nbhUK1uWRHlU3VtoYWZopkSBC / acti_r1qzeBxjgCYuSCvkhH4mJRX6ELQQuAqbK9ul86LzEll.
+- Próximo passo: se responder, confirmar execução 100% remota, primeiro workflow, fronteira de dados, critérios de aceitação, pagamento e NDA antes de aceitar qualquer compromisso.
