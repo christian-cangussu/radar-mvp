@@ -144,3 +144,16 @@
 - CRM hygiene: the two accidentally-created IZERTIS leads were consolidated non-destructively. Canonical lead is lead_6WqPM6SYVGXhs6ZfISV8c3blJe1NazVDTRIAXCf4Qxs with combined procurement/Hyland/blocker evidence. Duplicate lead lead_Y1jxrb1T7BtkOk4d2Kz36PDQENCErMyVpjP7Xt47WR7 was renamed/marked DUPLICATE and points to canonical; no deletion performed.
 - Secondary paid-service lane remains active: today's sent history confirms individualized outreach already went to NODENA (n8n/AI automation) and KB DIGITAL (freelance technical AI/automation). No reply detected yet. NUBO remains the highest-confidence paid-service opportunity (45%) and is not being chased again prematurely.
 - Next: monitor Altia/Recodme/NUBO and existing NEXLIC threads; on any positive NEXLIC reply deliver a defensible preview immediately, then move toward the verified €79 checkout. Continue prospecting only a few high-context targets, no mass mail.
+
+
+## 2026-09-27 09:06 — AI freelance opportunity review
+- Business brain consulted before action; Gmail and Close dedupe found no prior history for Jyotirmoy Das / Discord handle jyotirmoydas_22.
+- New strong-fit public opportunity confirmed: Jyotirmoy Das is seeking 1–2 n8n builders for project-based collaboration. The published scope directly matches Christian's verified work: n8n, WhatsApp/API, AI/LLMs, APIs/webhooks, CRM/calendar integrations, lead qualification, follow-up/booking, human handoff, error handling, testing, deployment, monitoring and documentation.
+- Commercial caveat preserved: the arrangement is not salaried and has no guaranteed workload; paid building/testing starts only after the agency acquires a client.
+- Official application route published: reply “n8n builder” in the n8n forum, then DM jyotirmoydas_22 on Discord with location/timezone, real n8n experience, 2–3 workflows, WhatsApp/API+AI experience, production/monitoring, pricing and weekly availability. No verified email was published.
+- No application/message claimed or sent in this run because the official route requires forum/Discord representational communication. No years of experience were invented.
+- Close created Potential lead lead_IiMBc5mAsr1Gsq2zr32k9qxSBJYfOG3i1ajOSHMlr0Y and note acti_EPNMBSPobtYkT2cFlu4ZMenNF2NRelXk8ASax13qf39 with fit, risks and next step.
+- Suggested accurate positioning: Barcelona / Europe-Madrid; OlaMaestro (n8n + Evolution API/WhatsApp), Nivrael and NEXLIC as own production projects; €30/h for open/troubleshooting work or fixed price after brief; 8–10 h/week stable availability. Do not present own projects as client case studies.
+- Secondary listing reviewed: ongoing fixed-price n8n/Make projects, but payment depends on the buyer's client approving/releasing milestones and competition is already high; no outreach sent.
+- Inbox/CRM state: no new replies found from the existing freelance/job threads in the current check.
+- Next step requiring Christian: send/authorize the forum reply and Discord introduction for the Jyotirmoy opportunity; then wait for a concrete paid brief before committing scope, price, dates or a meeting.
