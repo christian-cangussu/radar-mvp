@@ -157,3 +157,15 @@
 - Secondary listing reviewed: ongoing fixed-price n8n/Make projects, but payment depends on the buyer's client approving/releasing milestones and competition is already high; no outreach sent.
 - Inbox/CRM state: no new replies found from the existing freelance/job threads in the current check.
 - Next step requiring Christian: send/authorize the forum reply and Discord introduction for the Jyotirmoy opportunity; then wait for a concrete paid brief before committing scope, price, dates or a meeting.
+
+
+## 2026-09-27 12:58 — LatAm payments AI-support opportunity
+- Business brain read first; Gmail and Close dedupe found no previous history for the published WhatsApp number +57 323 581 6890 or forum handle seydakhmetov.
+- Strong paid opportunity confirmed from the public n8n Jobs listing published 22/09/2026: a Latin American payment-processing company seeks an AI Automation Engineer / n8n Developer to automate customer support.
+- Published scope: classify conversations, answer FAQs, query databases/APIs, execute actions, preserve context and escalate complex cases to human operators. Stack: n8n + LLMs + APIs; JavaScript/Python and PostgreSQL preferred.
+- Fit is high with Christian's verified work: n8n self-hosted, Evolution API/WhatsApp, LLMs, APIs/webhooks, Python/JS, Supabase/Postgres and human handoff. Nivrael, OlaMaestro and NEXLIC remain own production projects, not client case studies.
+- Engagement may be contractor or full-time with possible long-term collaboration. No salary, full-time availability, delivery date or contract terms were accepted.
+- Official route published is WhatsApp only: +57 323 581 6890. No verified email or confirmed legal company identity was found. No message/application was sent or claimed in this run.
+- Close created Potential lead lead_IXLjt2AxDbDb2RzzKw04x8cpFnFehuErRFVU1ckY4aI, contact cont_MnYNOlvCAjCcXCBFwdDDEM8dp2yDpH2b2XCfn7DKOp7 and review note acti_7ko0yW4cbbk8i4v0R8KR9UL9VHYv0Al2AqfMqHTz6BH.
+- Inbox/CRM review found no new replies from active job/freelance threads.
+- Next step requiring Christian: send an individual WhatsApp introduction using only verified experience; propose €30/h for open/troubleshooting work or fixed price after a brief and 8–10 h/week stable availability, then request a concrete initial scope and acceptance criteria before committing price or schedule.
