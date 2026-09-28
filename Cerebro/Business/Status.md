@@ -194,3 +194,13 @@
 - Close created Potential lead lead_UjnvGm4lUXzNPB8c5nsyYxr23VgZkMAp2W63kJZRcuj, Qualified Prospect opportunity oppo_wbQQB6O8a9dieNZkTpW0I63QNxlsfK9Za58EflGMNMC (US$190 one-time / 15% confidence), and note acti_sWKSZcuP5w0cZ2eUI4Jf951MrvzOMnLMKBUVGlvE6LN.
 - Salaried/contract search also reviewed current official roles. Synthex requires advanced English; PromptPartner requires direct Claude Desktop/API, MCP server/gateway, local LLM and RAG experience; Leadtech's official page returned 410. No application was sent and no missing qualification was invented.
 - Next step requiring Christian: open the Upwork listing and submit a concise proposal if the platform account has sufficient connects. Position around an auditable state table, idempotency, timezone-safe scheduling, approved message templates, retry/error paths and acceptance tests; confirm any call, final delivery commitment or paid connects before proceeding.
+
+
+## 2026-09-28 13:12 — EM Exact reply + n8n FDE opportunity
+- Gmail/Close rechecked before new pursuit. One new material reply was found: EM Exact replied on 28/09/2026 10:08 Europe/Madrid that it already has its own laser-marking equipment. No reply was sent because no useful next step exists.
+- Close state verified: EM Exact is already marked Bad Fit with the rejection reason and no open opportunity. Do not follow up.
+- New official salaried opportunity verified open on 28/09/2026: n8n Forward Deployed Engineer — EMEA, full-time remote, Spain eligible. Official page: https://jobs.ashbyhq.com/n8n/c9fc97fa-a473-4133-b3cb-502785649ecd.
+- Strong truthful overlap: production integrations/APIs, n8n workflows, backend automation, solution design, event-driven systems and customer-facing implementation. Important gaps/decision gates preserved: the role asks for 30–50% travel across Europe, company language English, and prefers enterprise deployment experience; none was claimed on Christian's behalf.
+- Gmail + Close dedupe found no prior application to this exact role. No application was submitted and no recruiter outreach was sent.
+- Close created lead lead_N8NIPjjtG00OWtQdUOqdGKmoDhvV9L0DLBhotK0wNyO and Qualified Prospect opportunity oppo_FpanAxMNfP88y52fFTzMwZsgd16cFbGFzeiJB1fQD7V at 15% confidence, with no compensation value because the listing did not publish one for this role.
+- Next step requiring Christian: confirm willingness for 30–50% travel and the exact English/customer-facing claims that can be made, then submit through the official Ashby route using the verified technical CV. Do not claim enterprise deployment history.
