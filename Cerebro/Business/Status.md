@@ -181,3 +181,16 @@
 - Close created Potential lead lead_o7iWq5fit1l7RndxmEUB3WsO1Purd4A2Lj3jUv8KJlM, contact cont_NnusY0Yw2nWxu3qP01nbhUK1uWRHlU3VtoYWZopkSBC and note acti_r1qzeBxjgCYuSCvkhH4mJRX6ELQQuAqbK9ul86LzEll.
 - Salaried search: current official Sysdig Junior AI & Product Enablement role is technically relevant, but it requires working written and spoken English; Christian's saved CV verifies technical reading only, so no application was submitted and no English level was invented.
 - Next: monitor for a reply. Before accepting any NDA, project, price or meeting, confirm fully remote delivery, exact Phase 1 scope, success criteria and payment mechanism.
+
+
+## 2026-09-28 09:15 — Upwork n8n + WhatsApp reviews opportunity
+- Business brain read first; Gmail and Close inbound review found no new replies from the active job/freelance threads.
+- New high-fit paid opportunity verified on Upwork: “Desarrollador de automatización para WhatsApp”, job ID ~022100312312988358721, posted 16/09/2026 and still active on 28/09/2026.
+- Published scope: n8n + official WhatsApp Business API, Google Sheets/CSV input, review request 2 hours after an appointment, thank-you on review, reminder after 12 hours if absent, state tracking, documentation and a 15–20 minute handover.
+- Commercial evidence at verification: US$190 fixed price, 5–7 day target, 10–15 proposals, client viewed within 1 hour, 0 interviewing. Client account location shown as Switzerland.
+- Fit is strong with Christian's verified n8n, WhatsApp Cloud API/webhook, data handling, retry/deduplication, testing and documentation work. No unsupported client case, years of experience or availability was claimed.
+- Gmail + Close dedupe found no prior record for the exact title or Upwork job ID.
+- No application was submitted or claimed because the available tools cannot operate Christian's Upwork account and no proposal-credit purchase is authorized.
+- Close created Potential lead lead_UjnvGm4lUXzNPB8c5nsyYxr23VgZkMAp2W63kJZRcuj, Qualified Prospect opportunity oppo_wbQQB6O8a9dieNZkTpW0I63QNxlsfK9Za58EflGMNMC (US$190 one-time / 15% confidence), and note acti_sWKSZcuP5w0cZ2eUI4Jf951MrvzOMnLMKBUVGlvE6LN.
+- Salaried/contract search also reviewed current official roles. Synthex requires advanced English; PromptPartner requires direct Claude Desktop/API, MCP server/gateway, local LLM and RAG experience; Leadtech's official page returned 410. No application was sent and no missing qualification was invented.
+- Next step requiring Christian: open the Upwork listing and submit a concise proposal if the platform account has sufficient connects. Position around an auditable state table, idempotency, timezone-safe scheduling, approved message templates, retry/error paths and acceptance tests; confirm any call, final delivery commitment or paid connects before proceeding.
