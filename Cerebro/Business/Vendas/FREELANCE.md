@@ -56,3 +56,17 @@
 - Close: lead_UjnvGm4lUXzNPB8c5nsyYxr23VgZkMAp2W63kJZRcuj / oppo_wbQQB6O8a9dieNZkTpW0I63QNxlsfK9Za58EflGMNMC / acti_sWKSZcuP5w0cZ2eUI4Jf951MrvzOMnLMKBUVGlvE6LN.
 - Outreach: não enviado; o canal é a própria plataforma e não há ação Upwork conectada. Nenhum Connect foi comprado.
 - Ângulo recomendado: workflow auditável com tabela de estado, idempotência, timezone explícito, templates aprováveis, reintentos/alertas e testes de aceitação. Não prometer prazo final, chamada ou disponibilidade antes de confirmar parâmetros.
+
+
+### n8n — Forward Deployed Engineer EMEA
+- Data verificada: 28/09/2026.
+- Fonte oficial: https://jobs.ashbyhq.com/n8n/c9fc97fa-a473-4133-b3cb-502785649ecd
+- Estado: forte / decisão do owner necessária / não submetida.
+- Regime: full-time remoto; Espanha incluída nas localizações aceitas.
+- Escopo: deployments estratégicos, workflows e integrações production-grade, APIs/autenticação/modelos de dados/eventos, custom nodes, desenho de solução e feedback para Product/Engineering.
+- Fit verificável: n8n, APIs/webhooks, backend automation, Python/JavaScript, desenho de integrações e implementação customer-facing com projetos próprios em produção.
+- Gates: disponibilidade para viajar 30–50% pela Europa; inglês de trabalho; profundidade enterprise. Não alegar experiência enterprise não verificada.
+- Dedupe: Gmail e Close sem candidatura anterior para esta vaga exata.
+- Close: lead_N8NIPjjtG00OWtQdUOqdGKmoDhvV9L0DLBhotK0wNyO / oppo_FpanAxMNfP88y52fFTzMwZsgd16cFbGFzeiJB1fQD7V (Qualified Prospect, 15%, sem valor publicado).
+- Ação: nenhuma candidatura ou mensagem enviada; nenhum compromisso de salário, disponibilidade, viagem ou reunião.
+- Próximo passo: Christian confirmar viagem e claims exatos de inglês/customer-facing; depois aplicar pela rota oficial com CV técnico verificado e projetos próprios, sem inventar histórico enterprise.
