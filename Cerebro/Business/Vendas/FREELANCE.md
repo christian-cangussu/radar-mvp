@@ -42,3 +42,17 @@
 - Outreach: Gmail 1a0e328c120b3d86, enviado em 27/09/2026. Oferecido somente remoto; 8–10 h/semana; preço fixo somente após brief/especificações/aceitação.
 - Close: lead_o7iWq5fit1l7RndxmEUB3WsO1Purd4A2Lj3jUv8KJlM / cont_NnusY0Yw2nWxu3qP01nbhUK1uWRHlU3VtoYWZopkSBC / acti_r1qzeBxjgCYuSCvkhH4mJRX6ELQQuAqbK9ul86LzEll.
 - Próximo passo: se responder, confirmar execução 100% remota, primeiro workflow, fronteira de dados, critérios de aceitação, pagamento e NDA antes de aceitar qualquer compromisso.
+
+
+### Upwork — n8n + WhatsApp review-request automation
+- Data verificada: 28/09/2026.
+- Fonte: https://www.upwork.com/freelance-jobs/apply/Desarrollador-automatizaci-para-WhatsApp_~022100312312988358721/
+- Estado: forte / ação manual necessária / não submetida.
+- Job ID: ~022100312312988358721.
+- Escopo: Google Sheets/CSV → espera até 2h após a marcação → WhatsApp oficial pedindo avaliação Google → agradecimento quando houver avaliação → lembrete após 12h se ausente; controle de estado, documentação e handover curto.
+- Termos publicados: US$190 fixos, 5–7 dias; 10–15 propostas, 0 entrevistas e cliente ativo na última hora no momento da verificação.
+- Fit verificável: n8n, WhatsApp Cloud API/webhooks, dados, idempotência/deduplicação, tratamento de falhas, testes e documentação.
+- Dedupe: Gmail e Close limpos para título e ID antes do registro.
+- Close: lead_UjnvGm4lUXzNPB8c5nsyYxr23VgZkMAp2W63kJZRcuj / oppo_wbQQB6O8a9dieNZkTpW0I63QNxlsfK9Za58EflGMNMC / acti_sWKSZcuP5w0cZ2eUI4Jf951MrvzOMnLMKBUVGlvE6LN.
+- Outreach: não enviado; o canal é a própria plataforma e não há ação Upwork conectada. Nenhum Connect foi comprado.
+- Ângulo recomendado: workflow auditável com tabela de estado, idempotência, timezone explícito, templates aprováveis, reintentos/alertas e testes de aceitação. Não prometer prazo final, chamada ou disponibilidade antes de confirmar parâmetros.
