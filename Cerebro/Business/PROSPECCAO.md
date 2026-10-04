@@ -26,3 +26,10 @@ Buscas pré-envio devem incluir mensagens arquivadas, lixeira e spam (`in:anywhe
 - ValeriaHR / Mid AI Engineer: rejeição recebida em 30/09/2026; a empresa avançou com outros candidatos.
 - Estado operacional: encerrado / Bad Fit no CRM; não fazer follow-up desta candidatura.
 - Aprendizado preservado: recebimento de candidatura não equivale a avanço, e ausência de compatibilidade suficiente deve ser registrada como perda factual, sem reinterpretar a resposta.
+
+## Vaga oficial qualificada — 2026-10-04
+- knowmad mood — Architect AI & Automation (n8n | IA Generativa | Multiagentes): vaga oficial verificada aberta em 04/10/2026, completamente remota, Las Rozas-Madrid.
+- Fonte oficial: https://knowmadmood.teamtailor.com/jobs/8492391-architect-ai-automation-n8n-ia-generativa-multiagentes
+- Correspondência verificável: n8n, agentes/LLMs, MCP, APIs/webhooks, context engineering, automações end-to-end e cloud/on-prem.
+- Gate de honestidade: o título Architect e a referência a automação empresarial não autorizam alegar experiência enterprise não comprovada. Projetos próprios em produção são evidência técnica, não histórico de clientes empresariais.
+- Rota válida: formulário oficial Teamtailor. Não usar endereço genérico de marketing como contato de recrutamento e não registrar candidatura sem confirmação do formulário.
