@@ -204,3 +204,13 @@
 - Gmail + Close dedupe found no prior application to this exact role. No application was submitted and no recruiter outreach was sent.
 - Close created lead lead_N8NIPjjtG00OWtQdUOqdGKmoDhvV9L0DLBhotK0wNyO and Qualified Prospect opportunity oppo_FpanAxMNfP88y52fFTzMwZsgd16cFbGFzeiJB1fQD7V at 15% confidence, with no compensation value because the listing did not publish one for this role.
 - Next step requiring Christian: confirm willingness for 30–50% travel and the exact English/customer-facing claims that can be made, then submit through the official Ashby route using the verified technical CV. Do not claim enterprise deployment history.
+
+
+## 2026-10-04 09:08 — AI Freelance Hunter / resultado de candidatura
+- Cérebro Business, Gmail e Close revisados antes de nova prospecção.
+- Resposta confirmada de 30/09/2026: ValeriaHR decidiu avançar com outros candidatos para a vaga Mid AI Engineer.
+- A candidatura foi encerrada sem resposta adicional; nenhuma entrevista, proposta ou convite foi recebido.
+- Close atualizado com um registro ValeriaHR — Mid AI Engineer em Bad Fit e nota factual de rejeição. Nenhum follow-up deve ser enviado para esta candidatura.
+- Busca atual em Indeed, páginas oficiais e mercado público de n8n não produziu neste ciclo uma oportunidade nova suficientemente verificável e superior às já registradas. Não houve candidatura ou outreach novo.
+- Threads freelance ativas não tiveram novas respostas qualificadas detectadas: NUBO, Landbot, NODENA, KB DIGITAL, Iberia Growth e o projeto LA Household Systems seguem sem novo inbound confirmado.
+- A vaga n8n Forward Deployed Engineer — EMEA permanece bloqueada pelos mesmos parâmetros já reportados (30–50% de viagens e nível de inglês/customer-facing verificável); não repetir candidatura sem esses dados.
