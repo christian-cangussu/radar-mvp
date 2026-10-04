@@ -20,3 +20,9 @@ Este repositório é público. Não copiar correspondência, CV, telefones, iden
 ## Deduplicação reforçada — 2026-09-24
 
 Buscas pré-envio devem incluir mensagens arquivadas, lixeira e spam (`in:anywhere`). Declaração anterior de submissão bloqueia reenvio até resolver o estado, mesmo sem confirmação automática. Histórico fora da caixa de entrada continua sendo histórico. Não atribuir execução a um agente específico sem evidência.
+
+
+## Resultado confirmado — 2026-10-04
+- ValeriaHR / Mid AI Engineer: rejeição recebida em 30/09/2026; a empresa avançou com outros candidatos.
+- Estado operacional: encerrado / Bad Fit no CRM; não fazer follow-up desta candidatura.
+- Aprendizado preservado: recebimento de candidatura não equivale a avanço, e ausência de compatibilidade suficiente deve ser registrada como perda factual, sem reinterpretar a resposta.
