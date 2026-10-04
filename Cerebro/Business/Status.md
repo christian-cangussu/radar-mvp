@@ -214,3 +214,12 @@
 - Busca atual em Indeed, páginas oficiais e mercado público de n8n não produziu neste ciclo uma oportunidade nova suficientemente verificável e superior às já registradas. Não houve candidatura ou outreach novo.
 - Threads freelance ativas não tiveram novas respostas qualificadas detectadas: NUBO, Landbot, NODENA, KB DIGITAL, Iberia Growth e o projeto LA Household Systems seguem sem novo inbound confirmado.
 - A vaga n8n Forward Deployed Engineer — EMEA permanece bloqueada pelos mesmos parâmetros já reportados (30–50% de viagens e nível de inglês/customer-facing verificável); não repetir candidatura sem esses dados.
+
+## 2026-10-04 16:07 — knowmad mood AI automation role
+- Business brain, Gmail and Close reviewed before action. Dedupe found no prior history for knowmad mood or the exact role.
+- Official opportunity verified open on 04/10/2026: “Architect AI & Automation (n8n | IA Generativa | Multiagentes)”, Las Rozas-Madrid, completely remote. Official route: https://knowmadmood.teamtailor.com/jobs/8492391-architect-ai-automation-n8n-ia-generativa-multiagentes
+- Strong verified overlap: n8n self-hosted, agents/LLMs, MCP/context engineering, APIs/webhooks, end-to-end automation and cloud/on-prem infrastructure through Christian's own production projects.
+- Risk preserved: the title is Architect and the description references enterprise automation experience. Do not claim enterprise client history, years, English level, degree, availability or salary expectations that are not verified.
+- Close created Potential lead lead_H6dkk9GZ4btLsayv0PzLsvO2lkzfMWnRLhx64JNPFSS, Qualified Prospect opportunity oppo_R9xfahJigUbBAUhrFavOFHT8jXNftHo4DSWErIaTKsZ at 15% confidence, and pinned review note acti_I3AlSYiaaUmjVTdbH1SiC6f42LEhuRmFiUmAe1Coe8W. No salary value was recorded because none is published.
+- No recruiter email was used: no verified recruiter/hiring-manager address was found. No application was submitted or claimed; the official Teamtailor candidate form remains the required route.
+- Next step requiring Christian: complete the official form with the saved technical CV, framing Nivrael, NEXLIC and OlaMaestro as own production projects and keeping the enterprise-experience gap explicit. Make no salary, availability or meeting commitment without the missing parameters.
