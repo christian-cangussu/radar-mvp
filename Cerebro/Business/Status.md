@@ -244,3 +244,13 @@
 - Gmail and Close dedupe were clean for Vic.ai and the exact role. No application or recruiter outreach was sent, and no years, degree, enterprise history, English level, relocation/commute or availability was invented.
 - Close created: lead_l415EexzS6RCJaOOaoCFI4unE3MmeTFqsCytetFTSjo; Qualified Prospect opportunity oppo_2x34iFIndDX0kxlyYagsEKIzoLkWDFOSMVU2t0hJJVW (10%, no compensation value); pinned note acti_5BF1PLqTso2PTeLD47xIwQV1XyG9iCNirJk8TRJx7AV.
 - Next step requiring Christian: confirm practical Madrid attendance and whether the 2+ years production-backend requirement can be supported factually; then apply through the official Ashby route with the saved technical CV and own projects clearly labeled as own.
+
+
+## 2026-10-07 13:00 — Paid n8n AI-agent QA trial
+- New near-term freelance opportunity verified on the public n8n Jobs forum: “Looking for n8n / AI Automation Specialist — Paid QA & Stress Testing”, posted 06/10/2026 by handle cobasuyi. Source: https://community.n8n.io/t/looking-for-n8n-ai-automation-specialist-paid-qa-stress-testing/319256
+- Scope: review and stress-test existing AI agents built with n8n, Vapi, Twilio, ElevenLabs, OpenAI/Claude and APIs/webhooks; identify bugs and failure points; test edge cases/error handling and AI behaviour; recommend/fix issues before client demos. Buyer proposes one paid trial first, with possible ongoing work.
+- Strong truthful overlap: n8n, APIs/webhooks, LLM workflows, debugging, error handling, testing and documentation. Gap kept explicit: no verified Vapi/Twilio/ElevenLabs client case.
+- Dedupe was clean in Gmail and Close for the exact opportunity/handle.
+- Contact route is n8n Community DM; no direct verified email was published and the forum is not available through the connected action tools. No application or DM was submitted or claimed.
+- Close created: lead_VO7IowR49BOjhxukWLtljwLiwol8XpyrIaSJKlEdJzW; Qualified Prospect opportunity oppo_ZKoGqotd3G08to2xsTY7lADMu8Lu5J0A0WRZTAQ7WaN (20%, no published budget); pinned note acti_rc2rwzDwdybLR0VYjDj8DrGCN2Z4UMNREORxAhtdv7S.
+- Recommended next step: Christian DM cobasuyi with Barcelona/Europe-Madrid, the previously communicated €30/h troubleshooting rate, and a bounded paid trial to audit one agent; clearly label Nivrael/NEXLIC/OlaMaestro as own projects and do not claim prior client work with Vapi/Twilio/ElevenLabs.
