@@ -264,3 +264,13 @@
 - No application was submitted: the company accepts applications only through its official careers page, and the two gates above require Christian's confirmation.
 - Close created: lead_BgzHErhNHkJ0R4LATVsqNJMtySKTnBdptogUno35Ban / opportunity oppo_e9FgVK4Dm7EOT9IsBMPmDywbswM1fHikacjl0dToLtM / note acti_ZVXtDS5tssFIslWPp1DZ25dSm4ynPidppLbHJtJSMFi.
 - Next step requiring Christian: confirm English proficiency and willingness/ability to complete the initial Milan ramp-up; then apply through the official route with the saved technical CV and own projects clearly labeled as own.
+
+
+## 2026-10-07 20:08 — WhatsApp order-confirmation project agreed; deposit pending
+- Commercial opportunity confirmed from Christian's WhatsApp conversation: an existing client accepted a fixed US$80 project for Google Sheets + n8n + Evolution API.
+- Agreed commercial terms: US$40 upfront and US$40 after completion/testing; estimated delivery around two days after receipt of access and the sheet structure.
+- Bound scope: build the n8n workflow from scratch, detect new/pending orders, send WhatsApp confirmation, handle Confirm/Cancel through the Evolution webhook, update the correct Google Sheets row, prevent duplicates, add basic error handling, test end-to-end and provide a brief handoff.
+- Payment is not confirmed. PayPal Payment Links creation returned 403 because Christian's account is personal, not Business. Do not start before the US$40 deposit.
+- Immediate next step: request the deposit through Christian's direct PayPal receiving email or a working Business-account invoice/link; after payment, collect the Google Sheet sample and n8n/Evolution access.
+- Close recorded: lead_h3w4J6M8juzGCzdrbKN5Z9VVqWyMZqZMWy96O5xheTm / Proposal Sent opportunity oppo_vkPVmw3p3WFrdjmhTDpyV0KvarUBeOdQbZapPlB9Es0 (US$80 one-time, 70%) / pinned note acti_lwLlRSMQBzPeSC2rY9vbvcEd9mJy3iYDg8zVE1fAL2n.
+- Current-market scan: no new qualified inbound reply in Gmail or Close. Indeed/public official research surfaced roles, but none justified action without inventing missing degree, English, Russian, seniority or location requirements.
