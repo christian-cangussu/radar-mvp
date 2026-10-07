@@ -112,3 +112,17 @@
 - Close: lead_VO7IowR49BOjhxukWLtljwLiwol8XpyrIaSJKlEdJzW / oppo_ZKoGqotd3G08to2xsTY7lADMu8Lu5J0A0WRZTAQ7WaN / acti_rc2rwzDwdybLR0VYjDj8DrGCN2Z4UMNREORxAhtdv7S.
 - Outreach: não enviado; nenhum acesso conectado ao fórum e nenhum email verificado publicado.
 - Próximo passo: Christian enviar DM oferecendo auditoria delimitada de um agente como paid trial; informar Barcelona/Europe-Madrid e €30/h para troubleshooting já comunicado anteriormente; usar apenas projetos próprios como exemplos e declarar a lacuna Vapi/Twilio/ElevenLabs.
+
+
+### Bending Spoons — Graduate AI Software Engineer
+- Data verificada: 07/10/2026.
+- Fonte oficial: https://jobs.bendingspoons.com/positions/695a6f1127aeb1bf21a1b44d
+- Candidatura oficial: https://jobs.bendingspoons.com/positions/695a6f1127aeb1bf21a1b44d/apply
+- Estado: forte / decisão do owner necessária / não submetida.
+- Regime: Madrid ou remoto de país elegível; contrato permanente ou temporário; opção part-time. A empresa publica faixa típica de €66.065–€107.837/ano na Europa e considera candidatos com pouca ou nenhuma experiência relevante.
+- Fit verificável: projetos próprios de IA em produção, Python, APIs, Docker, arquitetura e ownership end-to-end.
+- Gates explícitos: inglês proficiente e presença majoritária no escritório de Milão durante os primeiros meses, mesmo para localização remota posterior. Nenhum nível de inglês ou compromisso de viagem foi assumido.
+- Dedupe: Gmail e Close limpos para empresa/vaga antes do registro.
+- Close: lead_BgzHErhNHkJ0R4LATVsqNJMtySKTnBdptogUno35Ban / oppo_e9FgVK4Dm7EOT9IsBMPmDywbswM1fHikacjl0dToLtM / acti_ZVXtDS5tssFIslWPp1DZ25dSm4ynPidppLbHJtJSMFi.
+- Ação: nenhuma candidatura/recruiter outreach enviado; a empresa exige candidatura pela página oficial.
+- Próximo passo: Christian confirmar inglês e viabilidade do ramp-up inicial em Milão; depois candidatar-se com CV técnico salvo e projetos próprios identificados como próprios.
