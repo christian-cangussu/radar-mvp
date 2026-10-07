@@ -33,3 +33,11 @@ Buscas pré-envio devem incluir mensagens arquivadas, lixeira e spam (`in:anywhe
 - Correspondência verificável: n8n, agentes/LLMs, MCP, APIs/webhooks, context engineering, automações end-to-end e cloud/on-prem.
 - Gate de honestidade: o título Architect e a referência a automação empresarial não autorizam alegar experiência enterprise não comprovada. Projetos próprios em produção são evidência técnica, não histórico de clientes empresariais.
 - Rota válida: formulário oficial Teamtailor. Não usar endereço genérico de marketing como contato de recrutamento e não registrar candidatura sem confirmação do formulário.
+
+
+## Projeto freelance confirmado — 2026-10-07
+- Cliente existente via WhatsApp aceitou US$80 fixos para automação de confirmação de pedidos com Google Sheets + n8n + Evolution API.
+- Condição acordada: US$40 de entrada e US$40 após entrega/teste; não iniciar antes da entrada.
+- Escopo fechado: workflow novo, detecção de pedidos, confirmação/cancelamento via WhatsApp, webhook Evolution, atualização da linha correta, idempotência, erro básico, teste ponta a ponta e handoff curto.
+- Estado: proposta aceita verbalmente, pagamento ainda não confirmado. Link PayPal bloqueado por conta pessoal; cobrar por transferência direta PayPal ou invoice/link válido após upgrade Business.
+- Close: lead_h3w4J6M8juzGCzdrbKN5Z9VVqWyMZqZMWy96O5xheTm / oportunidade oppo_vkPVmw3p3WFrdjmhTDpyV0KvarUBeOdQbZapPlB9Es0 (Proposal Sent, US$80) / nota acti_lwLlRSMQBzPeSC2rY9vbvcEd9mJy3iYDg8zVE1fAL2n.
