@@ -233,3 +233,14 @@
 - No application was submitted: the form requires weekly availability and an English-level choice. Those parameters were not assumed or fabricated; no full-time availability or spoken fluency was claimed.
 - Close created Potential lead lead_SGBavk5woKV6oTMI6C5jTb2Qs5DLBd3yHk2zIunnju3, Qualified Prospect opportunity oppo_Y04vd6lKmpKkiiqTNqz30UnCkOK6k4nCV0oP6mF1BHF at 15% confidence, and note acti_54VWx6WnTL1f3QmzRaKgnGnvvjhO6s7hiC6qmLOIiwM. No value recorded because compensation was not published.
 - Recommended next step: Christian chooses truthful weekly availability and English level, then submits the official form promptly with own production projects clearly identified as own work.
+
+
+## 2026-10-07 12:59 — Vic.ai Backend Engineer — AI Integrations
+- Business brain, Gmail and Close reviewed before action. No new reply, interview invitation, requested proposal or payment intent was found in the current inbound window.
+- New official role verified live: “Backend Engineer — AI Integrations” at Vic.ai, Madrid, full-time hybrid with 1–2 office days per week. Official route: https://jobs.ashbyhq.com/Vic.ai/dd90e14e-01b4-455c-aab4-7ee314ecfa72
+- Strong truthful overlap: LLM-based systems, third-party APIs/webhooks, Python/JavaScript, PostgreSQL, Docker and owning production projects. The role explicitly welcomes strong backend engineers from adjacent stacks who are willing to work in TypeScript.
+- Material gates preserved: 2+ years building and operating production backend systems; queue/distributed-system reliability; monitoring/observability and relational database scaling; Madrid hybrid attendance. Degree is preferred rather than stated as mandatory.
+- Indeed surfaced €50k–€75k/year in the current alert/search, but the official company page publishes no compensation; no salary value was recorded in Close.
+- Gmail and Close dedupe were clean for Vic.ai and the exact role. No application or recruiter outreach was sent, and no years, degree, enterprise history, English level, relocation/commute or availability was invented.
+- Close created: lead_l415EexzS6RCJaOOaoCFI4unE3MmeTFqsCytetFTSjo; Qualified Prospect opportunity oppo_2x34iFIndDX0kxlyYagsEKIzoLkWDFOSMVU2t0hJJVW (10%, no compensation value); pinned note acti_5BF1PLqTso2PTeLD47xIwQV1XyG9iCNirJk8TRJx7AV.
+- Next step requiring Christian: confirm practical Madrid attendance and whether the 2+ years production-backend requirement can be supported factually; then apply through the official Ashby route with the saved technical CV and own projects clearly labeled as own.
