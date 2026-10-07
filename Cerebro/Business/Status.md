@@ -223,3 +223,13 @@
 - Close created Potential lead lead_H6dkk9GZ4btLsayv0PzLsvO2lkzfMWnRLhx64JNPFSS, Qualified Prospect opportunity oppo_R9xfahJigUbBAUhrFavOFHT8jXNftHo4DSWErIaTKsZ at 15% confidence, and pinned review note acti_I3AlSYiaaUmjVTdbH1SiC6f42LEhuRmFiUmAe1Coe8W. No salary value was recorded because none is published.
 - No recruiter email was used: no verified recruiter/hiring-manager address was found. No application was submitted or claimed; the official Teamtailor candidate form remains the required route.
 - Next step requiring Christian: complete the official form with the saved technical CV, framing Nivrael, NEXLIC and OlaMaestro as own production projects and keeping the enterprise-experience gap explicit. Make no salary, availability or meeting commitment without the missing parameters.
+
+
+## 2026-10-07 09:07 — Sales Tech & Automation Specialist opportunity
+- Business brain, Gmail and Close checked before action; no prior history found for the exact role, forum handle Nico_RevOps, or its official application route.
+- Strong paid ongoing remote opportunity verified from the n8n Community: a sales agency seeks a Sales Tech & Automation Specialist working with Close CRM, n8n/Make/Zapier, Airtable/SQL, Calendly, Typeform/ClickFunnels, webhooks and APIs.
+- Public listing was originally posted 20/06/2026 and showed fresh forum activity on 01/10/2026. The official Airtable application form was confirmed live on 07/10/2026.
+- Fit is unusually direct with Christian's verified production stack and current operations: Close, n8n, Supabase/Postgres/SQL, Calendly, forms, APIs/webhooks and automation debugging.
+- No application was submitted: the form requires weekly availability and an English-level choice. Those parameters were not assumed or fabricated; no full-time availability or spoken fluency was claimed.
+- Close created Potential lead lead_SGBavk5woKV6oTMI6C5jTb2Qs5DLBd3yHk2zIunnju3, Qualified Prospect opportunity oppo_Y04vd6lKmpKkiiqTNqz30UnCkOK6k4nCV0oP6mF1BHF at 15% confidence, and note acti_54VWx6WnTL1f3QmzRaKgnGnvvjhO6s7hiC6qmLOIiwM. No value recorded because compensation was not published.
+- Recommended next step: Christian chooses truthful weekly availability and English level, then submits the official form promptly with own production projects clearly identified as own work.
