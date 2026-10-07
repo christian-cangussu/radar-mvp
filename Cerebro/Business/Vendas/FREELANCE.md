@@ -70,3 +70,17 @@
 - Close: lead_N8NIPjjtG00OWtQdUOqdGKmoDhvV9L0DLBhotK0wNyO / oppo_FpanAxMNfP88y52fFTzMwZsgd16cFbGFzeiJB1fQD7V (Qualified Prospect, 15%, sem valor publicado).
 - Ação: nenhuma candidatura ou mensagem enviada; nenhum compromisso de salário, disponibilidade, viagem ou reunião.
 - Próximo passo: Christian confirmar viagem e claims exatos de inglês/customer-facing; depois aplicar pela rota oficial com CV técnico verificado e projetos próprios, sem inventar histórico enterprise.
+
+
+### Sales Agency — Sales Tech & Automation Specialist
+- Data verificada: 07/10/2026.
+- Fonte: https://community.n8n.io/t/sales-tech-automation-specialist-full-time-ongoing/135475
+- Rota oficial: https://airtable.com/appOKPKn7j10Xkyee/pag1f3dFRPXwBZ2MY/form
+- Estado: forte / formulário oficial ativo / decisão do owner necessária / não submetida.
+- Publicação original: 20/06/2026; atividade recente observada no fórum em 01/10/2026; formulário confirmado ativo em 07/10/2026.
+- Escopo: operação contínua remota de Sales Tech com Close CRM, n8n/Make/Zapier, Airtable/SQL, Calendly, Typeform/ClickFunnels, webhooks/APIs e documentação/debugging.
+- Fit verificável: Christian já opera Close, n8n, Supabase/Postgres/SQL, Calendly, formulários, APIs/webhooks e automações de produção.
+- Dedupe: Gmail e Close limpos para título/handle/rota antes do registro.
+- Close: lead_SGBavk5woKV6oTMI6C5jTb2Qs5DLBd3yHk2zIunnju3 / oppo_Y04vd6lKmpKkiiqTNqz30UnCkOK6k4nCV0oP6mF1BHF / acti_54VWx6WnTL1f3QmzRaKgnGnvvjhO6s7hiC6qmLOIiwM.
+- Bloqueio: formulário exige disponibilidade semanal e nível de inglês. Não assumir full-time nem fluência falada; não submeter sem escolha verdadeira de Christian.
+- Próximo passo: completar o formulário com posicionamento factual e projetos próprios claramente descritos como próprios.
