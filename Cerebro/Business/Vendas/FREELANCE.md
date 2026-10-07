@@ -84,3 +84,17 @@
 - Close: lead_SGBavk5woKV6oTMI6C5jTb2Qs5DLBd3yHk2zIunnju3 / oppo_Y04vd6lKmpKkiiqTNqz30UnCkOK6k4nCV0oP6mF1BHF / acti_54VWx6WnTL1f3QmzRaKgnGnvvjhO6s7hiC6qmLOIiwM.
 - Bloqueio: formulário exige disponibilidade semanal e nível de inglês. Não assumir full-time nem fluência falada; não submeter sem escolha verdadeira de Christian.
 - Próximo passo: completar o formulário com posicionamento factual e projetos próprios claramente descritos como próprios.
+
+
+### Vic.ai — Backend Engineer — AI Integrations
+- Data verificada: 07/10/2026.
+- Fonte oficial: https://jobs.ashbyhq.com/Vic.ai/dd90e14e-01b4-455c-aab4-7ee314ecfa72
+- Estado: forte, mas com decisão/evidência do owner necessária; não submetida.
+- Regime: full-time; Madrid híbrido, 1–2 dias por semana no escritório.
+- Fit verificável: LLMs, integrações de APIs/webhooks, Python/JavaScript, PostgreSQL, Docker e sistemas próprios em produção. A vaga aceita engenheiros backend fortes de stacks adjacentes dispostos a trabalhar com TypeScript.
+- Gates explícitos: 2+ anos construindo/operando backend em produção; filas/sistemas distribuídos; observabilidade e escalabilidade de bancos relacionais; presença em Madrid. Graduação é preferida, não obrigatória.
+- Compensação: Indeed exibiu €50k–€75k/ano no alerta/busca atual; a página oficial não publica salário, portanto o Close ficou sem valor.
+- Dedupe: Gmail e Close limpos antes do registro.
+- Close: lead_l415EexzS6RCJaOOaoCFI4unE3MmeTFqsCytetFTSjo / oppo_2x34iFIndDX0kxlyYagsEKIzoLkWDFOSMVU2t0hJJVW / acti_5BF1PLqTso2PTeLD47xIwQV1XyG9iCNirJk8TRJx7AV.
+- Ação: nenhuma candidatura ou mensagem enviada; nenhum ano de experiência, diploma, histórico enterprise, inglês, disponibilidade, salário ou deslocamento foi inventado.
+- Próximo passo: Christian confirmar a logística Madrid e uma formulação factual do requisito de 2+ anos; depois aplicar pela rota oficial com CV técnico salvo e projetos próprios claramente identificados.
