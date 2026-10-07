@@ -254,3 +254,13 @@
 - Contact route is n8n Community DM; no direct verified email was published and the forum is not available through the connected action tools. No application or DM was submitted or claimed.
 - Close created: lead_VO7IowR49BOjhxukWLtljwLiwol8XpyrIaSJKlEdJzW; Qualified Prospect opportunity oppo_ZKoGqotd3G08to2xsTY7lADMu8Lu5J0A0WRZTAQ7WaN (20%, no published budget); pinned note acti_rc2rwzDwdybLR0VYjDj8DrGCN2Z4UMNREORxAhtdv7S.
 - Recommended next step: Christian DM cobasuyi with Barcelona/Europe-Madrid, the previously communicated €30/h troubleshooting rate, and a bounded paid trial to audit one agent; clearly label Nivrael/NEXLIC/OlaMaestro as own projects and do not claim prior client work with Vapi/Twilio/ElevenLabs.
+
+
+## 2026-10-07 15:58 — Bending Spoons Graduate AI Software Engineer
+- Gmail and Close checked before action: no prior application or contact found for Bending Spoons or this role. No new commercial reply, interview invitation, requested proposal or payment intent appeared in the current inbound window.
+- Official role verified live: Graduate AI Software Engineer, Madrid or fully remote from eligible countries; permanent or fixed-term, with part-time option. Official route: https://jobs.bendingspoons.com/positions/695a6f1127aeb1bf21a1b44d/apply
+- Fit: production AI projects, Python, APIs, Docker and end-to-end ownership. The employer explicitly considers candidates with little/no relevant experience and publishes a typical Europe salary range of €66,065–€107,837.
+- Gates preserved: proficient spoken/written English and spending most days in Milan during the first few months. These were not assumed or fabricated.
+- No application was submitted: the company accepts applications only through its official careers page, and the two gates above require Christian's confirmation.
+- Close created: lead_BgzHErhNHkJ0R4LATVsqNJMtySKTnBdptogUno35Ban / opportunity oppo_e9FgVK4Dm7EOT9IsBMPmDywbswM1fHikacjl0dToLtM / note acti_ZVXtDS5tssFIslWPp1DZ25dSm4ynPidppLbHJtJSMFi.
+- Next step requiring Christian: confirm English proficiency and willingness/ability to complete the initial Milan ramp-up; then apply through the official route with the saved technical CV and own projects clearly labeled as own.
