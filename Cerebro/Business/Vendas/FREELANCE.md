@@ -98,3 +98,17 @@
 - Close: lead_l415EexzS6RCJaOOaoCFI4unE3MmeTFqsCytetFTSjo / oppo_2x34iFIndDX0kxlyYagsEKIzoLkWDFOSMVU2t0hJJVW / acti_5BF1PLqTso2PTeLD47xIwQV1XyG9iCNirJk8TRJx7AV.
 - Ação: nenhuma candidatura ou mensagem enviada; nenhum ano de experiência, diploma, histórico enterprise, inglês, disponibilidade, salário ou deslocamento foi inventado.
 - Próximo passo: Christian confirmar a logística Madrid e uma formulação factual do requisito de 2+ anos; depois aplicar pela rota oficial com CV técnico salvo e projetos próprios claramente identificados.
+
+
+### n8n Community — Paid AI-agent QA & Stress Testing
+- Data verificada: 07/10/2026; publicação de 06/10/2026.
+- Fonte: https://community.n8n.io/t/looking-for-n8n-ai-automation-specialist-paid-qa-stress-testing/319256
+- Estado: forte / paid trial / ação manual necessária / não submetida.
+- Buyer: handle cobasuyi; contato somente por DM no n8n Community.
+- Escopo: revisar agentes existentes em n8n + Vapi + Twilio + ElevenLabs + OpenAI/Claude + APIs/webhooks; bugs, pontos de falha, edge cases, error handling, comportamento IA e correções/recomendações antes de demos a clientes.
+- Termos: primeiro agente como teste pago; trabalho contínuo possível; orçamento não publicado.
+- Fit verificável: n8n, APIs/webhooks, LLMs, debugging, tratamento de falhas, testes e documentação. Gap: nenhum case de cliente com Vapi/Twilio/ElevenLabs verificado.
+- Dedupe: Gmail e Close limpos para título/handle antes do registro.
+- Close: lead_VO7IowR49BOjhxukWLtljwLiwol8XpyrIaSJKlEdJzW / oppo_ZKoGqotd3G08to2xsTY7lADMu8Lu5J0A0WRZTAQ7WaN / acti_rc2rwzDwdybLR0VYjDj8DrGCN2Z4UMNREORxAhtdv7S.
+- Outreach: não enviado; nenhum acesso conectado ao fórum e nenhum email verificado publicado.
+- Próximo passo: Christian enviar DM oferecendo auditoria delimitada de um agente como paid trial; informar Barcelona/Europe-Madrid e €30/h para troubleshooting já comunicado anteriormente; usar apenas projetos próprios como exemplos e declarar a lacuna Vapi/Twilio/ElevenLabs.
