@@ -306,3 +306,11 @@
 - LASER: PREPARTS official site confirms precision machined pieces and quality/traceability fit, but **Gmail already contains an unsent 13/10 laser-marking draft**; no second draft or email. Mecatec plausible only, no buyer intent. Both parked while Close is inactive.
 - JOBS: ElevenLabs Automation Engineer — Influencers official remote-Spain role fits n8n, Python, APIs, SQL and social automation. No verified recruiter route and official application requires candidate-side form; no application submitted, no invented background/English claims.
 - CASH: no better newly actionable paid buyer found; NEXLIC: no verified new live-tender/eligibility pair; AFFILIATE: no organic demand/conversion evidence. Ledger updated. No spend, outreach, application or commitment.
+
+
+## 2026-10-23 16:21 — incremental buyer-intent triage
+- Canonical Business brain read first; Gmail incoming since the previous 15:24 review and Zoriya dedupe checked. No new qualified business reply, interview, requested proposal or payment intent. Zoriya AI email already sent 09:28; do not send the duplicate draft.
+- Close org and opportunity API calls still fail `Organization is inactive`; CRM-level dedupe and writes unavailable.
+- PayPal transaction read for 22–23 Oct returned zero entries, but provider refresh is only through 2026-10-23 11:59:59 UTC. No new commercial receipt confirmed via checked PayPal window; other payment rails unverified.
+- Current n8n Jobs forum showed a new 23/10 India WhatsApp AI support buyer, but Hindi/English support, Razorpay and WhatsApp Cloud API experience were required; no verified direct email and no demonstrated fit on all mandatory elements. Excluded; no outreach. Another 23/10 AI content-engine topic was deleted by its author. Existing 23/10 Zoriya outreach remains the highest live buyer-directed action.
+- No new applications, outbound, quotes, affiliate signup, ads, spending or commitments. Ledger and session updated.
