@@ -92,3 +92,13 @@ Research is not a sale. No private correspondence, contact addresses, transactio
 | JOBS | https://to.indeed.com/aanr2c4grndy | Innovamat — Operations Software Engineer, Sant Cugat | Integrations and Salesforce Apex/Lightning operations engineering | Salary not published | None unless Apex/Lightning background can be evidenced | **Rejected — mandatory fit unverified**, no application |
 
 - Gmail incremental review: no qualified commercial inbound or Zoriya reply since 16:21. Close remains inactive, preventing complete CRM dedupe and writes; no new outreach. PayPal 22–23 Oct zero transactions with provider refresh cutoff **2026-10-23 12:59:59 UTC**; zero paid/partially-paid/payment-pending invoices; no new commercial receipt verified in checked PayPal data, other rails unverified. LASER, NEXLIC and AFFILIATE produced no new evidence-gated buyer/pilot/conversion signal. No spending or commitments.
+
+## Update — 2026-10-23 18:22 Europe/Madrid
+
+| Lane | Source | Buyer / prospect | Problem / offer | Defensible value | Next action | Status |
+|---|---|---|---|---|---|---|
+| JOBS | https://jobs.ashbyhq.com/labhouse/06b8da6b-7b4f-477b-912e-8285a15a4607 | LABHOUSE, Barcelona — AI Engineer Tools & Automations | Python, LLM tools/agents, API/webhook integrations and internal automation; official company application | Salary unpublished; no defensible estimate | Park: official posting asks for proven company-level measurable productivity improvements and production LLM track record, not evidenced by Christian's own projects alone; no recruiter route or application submission. Gmail `in:anywhere` dedupe clean; Close inactive | Research only, not submitted; potential technical fit, material experience gate |
+
+- Gmail incremental searches found no qualified buyer response or payment intent. Zoriya AI buyer email already SENT 23/10 09:28; stale duplicate draft not sent.
+- Close `Organization is inactive` remains blocking CRM read/write and CRM-level dedupe. PayPal transaction report for 22–23 October returned zero entries with provider refresh only through **2026-10-23 13:29:59 UTC**; no incoming commercial receipt confirmed in checked PayPal data, bank/other rails not verified.
+- n8n Jobs current public board shows no stronger actionable direct-contact paid buyer since the previous scan; Hindi/English buyer remains excluded. NEXLIC, LASER, AFFILIATE had no new verified buyer/pilot/conversion signal. No contact, application, quote, spend or commitment.
