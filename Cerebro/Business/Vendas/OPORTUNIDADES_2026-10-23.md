@@ -45,3 +45,15 @@ Research is not a sale. No private correspondence, contact addresses, transactio
 - Close org_info and active opportunities reads again returned `Organization is inactive`; CRM-level dedupe and writes unavailable. Canonical ledger used to avoid repeats.
 - PayPal reporting requested through 08:20 UTC but provider returned data refreshed only through **2026-10-23 05:59:59 UTC**. Four records on 21/10 were personal outflows and funding offsets, not customer receipts. No incoming commercial receipt verified in returned window; do not claim bank or other payment channels were checked.
 - Five lanes reviewed: no verified laser marking demand/production pilot, NEXLIC company-tender match, job application with all mandatory facts verified, or affiliate organic conversion evidence that justified further action. Excluded out-of-timezone Singapore hiring and crowded/no-history listings. No spend, contracts, further outreach or applications.
+
+## Update — 2026-10-23 13:27 Europe/Madrid
+
+| Lane | Source | Buyer / prospect | Problem / offer | Defensible value | Next action | Status |
+|---|---|---|---|---|---|---|
+| CASH | https://www.workana.com/es/job/especialista-en-automatizacion-de-whatsapp-con-ia-para-reportes-financieros (posted 21/10) | Workana buyer C.V., financial services | WhatsApp group text/photos/PDF -> structured Google Sheets/Drive, AI daily summaries, Evolution API possible | No budget; buyer has 0 paid projects, 48 bids, NDA and post-delivery support required | Do not spend credits; revisit only on stronger buyer/payment evidence or scoped paid trial | Research only, weak conversion signal; no application |
+| LASER | https://tramsolucions.com/contacto-3/ and https://es.linkedin.com/company/tram-solucions-met%C3%A0l%C2%B7liques | TRAM Solucions Metàl·liques, Barberà del Vallès | Makes dies, stamped and CNC parts; theoretical marking need | None | **Exclude**: company's own public LinkedIn lists laser engraving of metal plates; no demonstrated outsourced demand | Eliminated, no outreach |
+
+- Gmail checked recent inbox/anywhere and Zoriya thread: **Zoriya buyer email was sent 23/10, still no buyer reply**; duplicate unsent draft remains. No other qualified new inbound. No contact or application this review.
+- Close org/activity still blocked with `Organization is inactive`; CRM dedupe/write not possible. No new outbound while unavailable.
+- PayPal transaction report requested through 23/10 11:25 UTC but refreshed only through **09:29:59 UTC**, with zero entries since 22/10 00:00 UTC. No incoming commercial PayPal revenue confirmed in this window; other rails not checked.
+- NEXLIC: no new verified open-tender/eligibility pair or qualified buyer; JOBS: no safe complete application; AFFILIATE: no organic qualified click or checkout evidence. No spending, quotes or commitments.
