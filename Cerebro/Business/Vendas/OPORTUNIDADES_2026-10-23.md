@@ -19,3 +19,18 @@ Research is not a sale. No private correspondence, contact addresses, transactio
 - Close activity and notifications both returned `Organization is inactive`; cannot reliably dedupe CRM or record/write leads. No new outbound while blocked.
 - PayPal reporting from 2026-10-20 through refreshed cutoff 2026-10-22 21:29:59 UTC shows 4 entries related to personal outgoing payments and funding offsets, **not business revenue**. No business receipts in this PayPal window; bank/other channels not checked.
 - No outreach, applications, production commitments, purchases, laser quotes, affiliate signup or ad spend this run.
+
+## Update — 2026-10-23 09:28 Europe/Madrid
+
+| Lane | Source | Buyer / prospect | Problem / offer | Defensible value | Next action | Status |
+|---|---|---|---|---|---|---|
+| CASH | https://community.n8n.io/t/for-hire-n8n-ai-agent-automation-developer-fixed-price-or-hourly-en-fr-ar/318675 (Michael's public 19/10 reply) | Zoriya AI / Michael | n8n webhook/form lead intake, Airtable dedupe/scoring/funnel, notifications; offer a scoped paid first milestone after requirements | No published budget, no invented quote | Await buyer's Airtable fields/stages, matching rule, lead sources; quote only after scope; avoid further unsolicited follow-up | Individual personalized email **SENT 23/10/2026** to publicly published contact after Gmail dedupe; no reply/payment yet. Existing older Gmail draft must NOT be resent. Close write unavailable. |
+| CASH | https://www.workana.com/es/job/especialista-en-automatizacion-de-procesos-con-ia-make-n8n-apis | Workana buyer I.D.S. | Document processing automation, small paid trial | No published budget; 0 previous paid projects, 42 bids at check | Park unless evidence improves; platform account required | Research only, not applied |
+| JOBS | https://jobs.ashbyhq.com/searchapi/f0bf74e7-12bc-4daf-94c2-6fb7b53a3132/ | SearchApi | AI integrations engineer; remote Spain listed | No verified compensation | Mandatory experience and exact form need checking; no application without verified fit | Research only |
+| AFFILIATE | https://convirtia.com/partners | Convirtia partner program | eCommerce automation software referrals via ES organic content | Official page advertises 30% recurring, €50 payout threshold, 90-day cookie; **not earnings evidence** | Require real organic distribution signal before applying/owner approval | Research only; no login, clicks, or sale |
+
+- Public n8n Jobs policy changed 22/10/2026: newly posted topics closed to replies; use posted email, application form or DM, not automated forum posting. Source: https://community.n8n.io/t/jobs-category-update/323708
+- Gmail inbound 23/10 through 09:28 local: no qualified business reply identified. Gmail duplicate check for Zoriya found only unsent prior draft before the new outbound.
+- Close API still returns `Organization is inactive`; do not claim CRM dedupe or successful CRM logging. Existing canonical ledger used to avoid repeats.
+- PayPal reporting refreshed only through 2026-10-23 05:29:59 UTC: 4 personal outgoing/funding entries since 21/10, **no verified incoming commercial receipts**; other payment channels not checked. KPI new revenue verified by this run: €0 via checked PayPal data.
+- No applications, other outreach, contracts, laser production commitments, paid tools, or ads.
