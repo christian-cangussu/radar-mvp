@@ -82,3 +82,13 @@ Research is not a sale. No private correspondence, contact addresses, transactio
 - Gmail since prior 15:24 review: no new qualified business inbound; existing Zoriya AI message already sent and duplicate draft untouched. Close still `Organization is inactive`.
 - PayPal zero transactions for 22–23 October in provider data last refreshed 2026-10-23 11:59:59 UTC; no commercial receipt confirmed in checked window. Other rails not checked.
 - No new outreach, job application, laser quote, tender claim, affiliate approval, purchase or commitment.
+
+## Update — 2026-10-23 17:24 Europe/Madrid
+
+| Lane | Source | Buyer / prospect | Problem / offer | Defensible value | Next action | Status |
+|---|---|---|---|---|---|---|
+| CASH | https://community.n8n.io/t/hiring-shopify-tracking-n8n-specialist-part-time-ongoing-35-hr-guaranteed-revenue-share/322445 | Young Automation Studio / Boston (18/10) | Shopify tracking fixes, n8n, Klaviyo; initial paid test | **$105 test (3-hour cap), $35/hr for 5–8.5 h/week**, published but not secured | None: mandatory Shopify Customer Events, Meta CAPI/GA4 proof, spoken English, US Eastern overlap and recorded Loom cannot be honestly evidenced | **Rejected — mandatory fit unverified**, no DM |
+| JOBS | https://to.indeed.com/aa4ysw8htzc7 | Perk — AI Revenue Systems Analyst, Barcelona | Python AI agents, integrations, Salesforce and GTM | Salary not published | None unless verified 5+ years and Salesforce configuration experience exists | **Rejected — mandatory background unverified**, no application |
+| JOBS | https://to.indeed.com/aanr2c4grndy | Innovamat — Operations Software Engineer, Sant Cugat | Integrations and Salesforce Apex/Lightning operations engineering | Salary not published | None unless Apex/Lightning background can be evidenced | **Rejected — mandatory fit unverified**, no application |
+
+- Gmail incremental review: no qualified commercial inbound or Zoriya reply since 16:21. Close remains inactive, preventing complete CRM dedupe and writes; no new outreach. PayPal 22–23 Oct zero transactions with provider refresh cutoff **2026-10-23 12:59:59 UTC**; zero paid/partially-paid/payment-pending invoices; no new commercial receipt verified in checked PayPal data, other rails unverified. LASER, NEXLIC and AFFILIATE produced no new evidence-gated buyer/pilot/conversion signal. No spending or commitments.
