@@ -274,3 +274,11 @@
 - Immediate next step: request the deposit through Christian's direct PayPal receiving email or a working Business-account invoice/link; after payment, collect the Google Sheet sample and n8n/Evolution access.
 - Close recorded: lead_h3w4J6M8juzGCzdrbKN5Z9VVqWyMZqZMWy96O5xheTm / Proposal Sent opportunity oppo_vkPVmw3p3WFrdjmhTDpyV0KvarUBeOdQbZapPlB9Es0 (US$80 one-time, 70%) / pinned note acti_lwLlRSMQBzPeSC2rY9vbvcEd9mJy3iYDg8zVE1fAL2n.
 - Current-market scan: no new qualified inbound reply in Gmail or Close. Indeed/public official research surfaced roles, but none justified action without inventing missing degree, English, Russian, seniority or location requirements.
+
+## 2026-10-23 09:28 — CASH buyer outreach sent (Zoriya AI)
+- Canonical Business brain read before Gmail, Close, PayPal and public-market review.
+- Zoriya AI founder Michael publicly requested a quote on 19/10 for n8n+Airtable lead intake and explicitly published an email route. Source: https://community.n8n.io/t/for-hire-n8n-ai-agent-automation-developer-fixed-price-or-hourly-en-fr-ar/318675
+- Gmail dedupe found an unsent draft but no prior sent outreach or reply. One personalized email was successfully **SENT** 23/10, proposing a tightly scoped paid first milestone, requesting Airtable fields, duplicate matching rule and lead source before pricing. No price, delivery time, availability or unsupported work history promised. Existing draft is stale and must not be sent again.
+- Close remains inactive (`Organization is inactive`), so CRM logging and CRM-level dedupe were unavailable. No other cold outreach was sent.
+- PayPal checked through 23/10 05:29:59 UTC: no new incoming commercial receipt confirmed; €0 new verified commercial revenue in available PayPal window. No other payment sources verified.
+- Other lanes researched but no stronger buyer intent or safe application route justified action. See Vendas/OPORTUNIDADES_2026-10-23.md. Next: watch for Michael's response and request a paid milestone scope/quote if qualified; do not send duplicate draft.
