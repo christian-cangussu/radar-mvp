@@ -282,3 +282,11 @@
 - Close remains inactive (`Organization is inactive`), so CRM logging and CRM-level dedupe were unavailable. No other cold outreach was sent.
 - PayPal checked through 23/10 05:29:59 UTC: no new incoming commercial receipt confirmed; €0 new verified commercial revenue in available PayPal window. No other payment sources verified.
 - Other lanes researched but no stronger buyer intent or safe application route justified action. See Vendas/OPORTUNIDADES_2026-10-23.md. Next: watch for Michael's response and request a paid milestone scope/quote if qualified; do not send duplicate draft.
+
+
+## 2026-10-23 10:21 — Revenue agent follow-up
+- Canonical Business context, current Gmail, Close and PayPal rechecked after 09:28 outbound to Zoriya AI. Gmail shows email sent and no qualified new inbound; do not send the older duplicate draft.
+- Close still inactive (`Organization is inactive`) on org and opportunity reads; CRM dedupe/write blocked.
+- PayPal data refreshed only to 2026-10-23 05:59:59 UTC, no verified incoming business revenue. Four 21/10 personal payments/funding offsets excluded from revenue; no assertion about bank/other rails.
+- New Workana buyer A.B. (22/10 React AI chat integration) shows payment verified and four paid projects but requires a 2–3 day deadline that cannot be committed to autonomously. Platform-only contact, 16 bids; recorded research-only in Vendas/OPORTUNIDADES_2026-10-23.md. No application.
+- No other five-lane buying signal strong enough for new outbound or owner escalation. No spend or commitments.
