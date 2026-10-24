@@ -364,3 +364,9 @@
 - PayPal current transaction read requires interactive user input, so **commercial receipts unverified**, not asserted zero.
 - New 24/10 Workana ImobMatch n8n+Supabase repair/finish buyer demand identified with strong technical fit; no verified budget, buyer paid history or off-platform contact. Platform-only; no proposal/application. Sanitized opportunity ledger updated.
 - No new outbound, spend, paid trial, contract, quote, NEXLIC eligibility assertion, job application or affiliate signup.
+
+## 2026-10-24 20:29 — evening buyer/reply gate
+- Canonical INDICE/ATLAS/Status and 24/10 ledger/session read. Gmail new inbound and existing Zoriya AI thread checked: no qualified reply after 23/10 21:22 response, and no reply to two sample-first LASER emails sent 24/10. Existing NUBO lead was already followed up on 13/10 and 20/10; no third nudge sent.
+- Close org_info still fails `Organization is inactive`. PayPal current transaction read requires interactive user input in this unattended execution; **current commercial receipts unverified**, not zero.
+- Fresh public n8n Jobs and Workana buyer scan: recent listings either have heavy competition, mandatory experience gaps, platform-only application routes, or lack verified buyer budget/payment history. No direct buyer stronger than pending Zoriya, no validated NEXLIC tender-company fit, official JOBS submission, laser sample request or AFFILIATE organic conversion signal.
+- No outbound, applications, spend, quotes, contracts, or other commitments. Ledger unchanged; avoid duplicate pursuit.
