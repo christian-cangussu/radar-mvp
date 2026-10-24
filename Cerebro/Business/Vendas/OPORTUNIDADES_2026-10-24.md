@@ -23,3 +23,10 @@ Only verified signals. Public repository: omit private email bodies, personal co
 
 - Other 23/10 Workana listings: customer-support WhatsApp bot had 53 proposals and buyer with 0 paid projects; small web-form trial required independently demonstrable client portfolio and professional invoicing and buyer had 0 paid projects. Both excluded from immediate outreach.
 - No new Zoriya reply or LASER sample request in Gmail by 24/10 04:25 Madrid. Close remains inactive; PayPal transaction/invoice read required interactive user input, so receipts currently unverified. Official n8n affiliate terms remain 30% of Cloud referrals for first 12 months, but no organic traffic/click/checkout evidence. No outreach or spending.
+
+## 15:23 Europe/Madrid — new current buyer-intent research
+| Lane | Source | Buyer / prospect | Problem / offer | Defensible value | Next action | Status |
+|---|---|---|---|---|---|---|
+| CASH | https://www.workana.com/job/especialista-em-n8n-supabase-para-finalizar-automacao-de-saas-imobiliario-imobmatch (published 24/10/2026) | ImobMatch SaaS real-estate project, buyer identity/payment history unverified | Audit and repair existing n8n + Supabase automations, event queues, duplicate prevention, error handling, 0–100 real-estate matching, logs, email notifications; strong verified technical-stack overlap | No verified budget, payment history or direct contact | Only Workana platform proposal route evidenced. Verify buyer payment history, budget and platform application capability before proposal; scope initial paid diagnostic, avoid whole-system commitment | Research only, no application or outreach |
+
+- Gmail inbound checked through ~15:23 Europe/Madrid: no new qualified business replies after Zoriya's 23/10 reply; two laser contacts still unanswered. Close organization remains inactive. PayPal transaction read requires interactive input; **current receipts unverified**, not zero. No spend, quote or commitment.
