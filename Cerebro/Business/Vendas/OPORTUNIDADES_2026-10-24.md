@@ -15,3 +15,11 @@ Only verified signals. Public repository: omit private email bodies, personal co
 - Gmail checked; Zoriya response still pending; two LASER sends confirmed. Existing TRAM outreach deduped and not repeated.
 - Close inactive, no CRM write. PayPal requires interactive user input this run; **current payment status unverified**.
 - No spend, ads, proposal credits, production commitments, accepted contract or fixed quote.
+
+## 04:25 Europe/Madrid — incremental triage
+| Lane | Source | Buyer / prospect | Problem / offer | Defensible value | Next action | Status |
+|---|---|---|---|---|---|---|
+| CASH | https://www.workana.com/es/job/proyecto-automatizacion-de-whatsapp-business-y-asignacion-de-prospectos-area-food-service (posted 23/10/2026) | Food-service industrial distributor, identity unverified (Workana) | One shared WhatsApp number, four sales executives, manual lead routing; buyer requests assessment of shared inbox vs custom workflow, rules, ERP integration | No published budget; payment history and buyer identity not verified | Platform-only proposal route; require brief on WhatsApp channel, assignment rules, Odoo ERP and access before any quote/time commitment | Research only: fresh concrete demand, but no verified direct contact, no application, no price/deadline promised |
+
+- Other 23/10 Workana listings: customer-support WhatsApp bot had 53 proposals and buyer with 0 paid projects; small web-form trial required independently demonstrable client portfolio and professional invoicing and buyer had 0 paid projects. Both excluded from immediate outreach.
+- No new Zoriya reply or LASER sample request in Gmail by 24/10 04:25 Madrid. Close remains inactive; PayPal transaction/invoice read required interactive user input, so receipts currently unverified. Official n8n affiliate terms remain 30% of Cloud referrals for first 12 months, but no organic traffic/click/checkout evidence. No outreach or spending.
