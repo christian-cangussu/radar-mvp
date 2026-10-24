@@ -357,3 +357,10 @@
 - Close still `Organization is inactive`; PayPal current transaction read blocked by interactive-user-input requirement; **receipts unverified**.
 - New Workana 23/10 auto-parts WhatsApp/Python bot rejected for immediate pursuit: buyer 0 paid projects, 34 proposals, platform-only. n8n Jobs agency with zero clients excluded. Indeed Barcelona Automation Developer mandatory >=3 years and Microsoft tooling not verified; no application. No better NEXLIC tender-company solvency pair or affiliate conversion signal.
 - No outreach, application, purchase, contract, pricing or delivery commitment. Opportunity ledger unchanged.
+
+
+## 2026-10-24 15:23 — incremental buyer gate
+- Canonical Business brain read before Gmail, Close, PayPal and fresh marketplace checks. No new qualified commercial Gmail reply or laser sample request; Zoriya's 23/10 21:22 response remains latest outgoing. Close still `Organization is inactive`.
+- PayPal current transaction read requires interactive user input, so **commercial receipts unverified**, not asserted zero.
+- New 24/10 Workana ImobMatch n8n+Supabase repair/finish buyer demand identified with strong technical fit; no verified budget, buyer paid history or off-platform contact. Platform-only; no proposal/application. Sanitized opportunity ledger updated.
+- No new outbound, spend, paid trial, contract, quote, NEXLIC eligibility assertion, job application or affiliate signup.
