@@ -22,3 +22,12 @@ Public-source commercial signals only. No private contact data, message bodies o
 ## Incremental check 25/10 09:25 Europe/Madrid
 - Gmail SENT confirms one new individual sample-first LASER email to Talleres Seime on 25/10 08:21 Madrid, after previous 07:20 session. No reply yet. Zoriya buyer still has no later reply than 23/10. Other 24/10 LASER contacts remain pending.
 - Close read still `Organization is inactive`; PayPal live transaction read requires interactive input, so current receipts are unverified. No CASH proposal/application or new owner-action trigger.
+
+## 10:22 Europe/Madrid — LASER outreach verified
+
+| Lane | Public source | Buyer | Problem / offer | Defensible value | Next action | Status |
+|---|---|---|---|---|---|---|
+| LASER | https://totalplanning.cat/contacto/ | Total Planning, Montcada i Reixac | Precision-machined aluminium pieces; offer sample-first reference/lot/logo/traceability mark on discarded piece; actual finish/material must be tested | No buyer budget or demonstrated outsourcing intent | Wait for reply; only discuss physical sample after owner coordination; no production quote | **One individual email sent 25/10**, Gmail SENT verified; no reply yet |
+| LASER | https://mecatecsl.wixsite.com/mecatec | Mecatec, Barberà del Vallès | Machined parts and tooling; offer sample-first identification mark on discarded piece, with material/finish validation | No buyer budget or demonstrated outsourcing intent | Wait for production/quality reply; no guarantees on depth, compatibility, throughput or timing | **One individual email sent 25/10**, Gmail SENT verified; no reply yet |
+
+- Existing TRAM outreach was found in Gmail from 28/09 and **not duplicated**. Existing Frame/Mecánicas Barberà (24/10) and Seime (25/10) contacts were not repeated. Close CRM remains inactive; PayPal current transactions require interactive user input and remain **unverified**, not zero. No buyer request, sample, paid pilot or contract yet.
