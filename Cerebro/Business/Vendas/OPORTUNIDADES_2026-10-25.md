@@ -35,3 +35,6 @@ Public-source commercial signals only. No private contact data, message bodies o
 ## 15:27 Europe/Madrid — public buyer update
 - Workana 24/10 WhatsApp bot repair listing remains **Open / In progress**; public buyer profile now shows **4 paid projects** of 6 published, and **27 bids** (earlier snapshot 3 paid, 23 bids). Budget allocated but **amount undisclosed**. Only application route is Workana login; no application or off-platform contact made.
 - Gmail commercial inbox and Zoriya sender: no new qualified reply or LASER sample request. Close remains inactive. PayPal read requires interactive user input, so current receipts remain unverified. No user-action trigger.
+
+## 26/10 01:27 Europe/Madrid — LASER research-only candidate
+- **Preparts (Barberà del Vallès)** — official site https://preparts.cat/ explicitly describes CNC/decoletaje metal parts, small/medium/large batches and strict quality/traceability; location Pol. Ind. Can Salvatella. Possible use case: sample-first marking of part reference, lot/serial or DataMatrix on discarded suitable metal piece. **No verified demand, budget or buyer conversation.** Current Gmail dedupe unavailable (`User input required`), Close inactive; **do not contact** until prior outreach check and decision-maker/need validation. Estimated value: unknown. Status: researched, uncontacted.
