@@ -449,3 +449,8 @@
 - Official Present Connection Mid Python/Data & AI Backend vacancy confirmed (https://presentconnection.eu/mid-python-developer-data-ai-backend/), €2,900–€4,200 gross/month; English communication requirement not verified, so **research only**, no application. Woffu integrations/support vacancy likewise has strong English requirement; no application.
 - New 25/10 Workana WhatsApp chatbot buyer excluded (0 paid projects, 28 proposals); prior 24/10 paid-history repair buyer still platform-only. No new NEXLIC eligibility-confirmed buyer, LASER buying signal, or AFFILIATE organic purchase evidence.
 - New sanitized opportunity ledger `Vendas/OPORTUNIDADES_2026-10-26.md` and session updated. No spending, emails, applications, commitments or user-action trigger.
+
+## 2026-10-26 06:27 — incremental revenue gate, no qualified trigger
+- Gmail 25–26/10 and Zoriya sender verified: no new qualified commercial reply, laser sample request, proposal, interview or payment intent. Prior contacts not duplicated.
+- Close `Organization is inactive`; PayPal live transactions require interactive input, so **receipts unverified**, not zero.
+- Current Upwork $19–$40/h Python/AI listing has 24 invites/5 interviews and unproven new buyer; $200 n8n/OpenAI has 50+ bids; $100 paid diagnostic is US-only. All platform-only or ineligible; no application. No new validated NEXLIC buyer/tender, safe JOBS application, LASER intent or AFFILIATE conversion. No outreach, spending, contract, quote or other commitment. Details in `Sessions/2026-10-26.md`.
