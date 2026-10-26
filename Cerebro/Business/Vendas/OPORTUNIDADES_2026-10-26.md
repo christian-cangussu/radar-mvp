@@ -14,3 +14,9 @@ Only new source-verified signals since the previous ledger; no private contact d
 - NEXLIC: official tender search produced no buyer paired with confirmed eligibility; no outreach or €79/month purchase intent.
 - AFFILIATE: no organic qualified click, checkout intent, or sales verified; no ads or sign-up.
 - No money spent, contracts, deadlines, quotes, production promises, job applications or outreach this check.
+
+## 12:27 Europe/Madrid — LASER individual sample-first outreach
+| Lane | Public source | Buyer / company | Problem / offer | Defensible value | Next action | Status |
+|---|---|---|---|---|---|---|
+| LASER | https://mecanizados-barna.com/ ; https://mecanizados-barna.com/contacto/ | Mecanizados Barcelona / Trade Fair S.L. (Barberà del Vallès) | Manufactures out-of-series machined parts in steel, stainless steel, aluminium and brass. Offered a test of references/serial/lot/QR/DataMatrix marking on a discarded sample, with compatibility/result checked before any pilot. | Not quoted; buyer need and budget unverified | Await production/quality response; if positive request discarded sample and exact marking requirement before discussing pilot | **One individual Gmail outreach SENT 26/10 12:xx Madrid; no reply/paid pilot yet** |
+- Gmail exact-domain/name dedupe was clean before contact. Preparts had already been contacted on 13/10 and was not repeated. Close inactive; PayPal live receipts unverified. No production guarantees, spend or commitments.
