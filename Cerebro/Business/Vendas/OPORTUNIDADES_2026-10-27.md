@@ -118,3 +118,11 @@ NEXLIC: no tender/eligible bidder pairing validated. Close inactive; PayPal inte
 | JOBS | Gmail Indeed recommendation 27/10 08:56 UTC, message `1a17c92da297a2e8` | JOMY s.a., Full Stack Developer/Business Analyst, Juprelle Belgium | Hybrid salaried full-time | **€2,300–€4,000/month advertised**, not offered/earned | No application: mandatory French, English, Juprelle commute/relocation unverified; not an interview | **EXCLUDED / mandatory mismatch** |
 
 - LASER TADI and Herrería BCN sample-first emails remain SENT with no replies. NEXLIC no eligibility-reviewed tender-company pair. AFFILIATE no qualified organic traffic/click/checkout/sale. Close `Organization is inactive`; PayPal successful transactions require interactive authorization, **receipts unverified, not zero**. No new defensible expected revenue, outreach, applications, spend or owner notification trigger.
+
+
+## 14:25 — SPROM sample-first LASER outreach
+| Lane | Source | Buyer / problem | Offer | Defensible value | Next action | Status |
+|---|---|---|---|---|---|---|
+| LASER | https://www.sprom.com/es/empresa/ ; https://www.sprom.com/es/contacto/ ; https://subcontex.camara.es/es/empresa/sprom | **SPROM**, Barberà del Vallès; Enric Riverola, commercial director, `comercial@sprom.com`. Die manufacturing, cold stamping and quality/supplier controls; **outsourced marking demand unverified**. | Sample-first test on a **discarded suitable metal part** for reference, lot, serial or QR/DataMatrix, only if feasible on Christian's 30W fiber laser. | **Unknown** — no buyer reply, pilot, budget, quote, order or payment. | Await reply; if interest, ask for sample/material and technical requirements; do not promise depth, speed, compatibility, repeatability, deadline or price. | **INDIVIDUAL EMAIL SENT** 27/10 ~14:25 Madrid; Gmail `1a17d8aea05a3317`; no buyer intent confirmed; clean dedupe before contact. |
+
+CASH/JOBS/NEXLIC/AFFILIATE: no newly qualified or valued opportunity. Close inactive; PayPal successful receipts require interactive authorization; **unverified rather than zero**. No new contract, paid test, application, ad spend, price quote or machine-sale action.
