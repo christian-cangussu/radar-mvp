@@ -195,3 +195,16 @@
 | AFFILIATE | [Litera.pt](https://litera.pt/pages/programa-de-afiliados) | 10% on paid orders, €20 threshold; no organic qualified traffic or checkout/sales. | None verified | Hold activation/ads | RESEARCH ONLY |
 
 **15:20 gate:** Gmail no qualified commercial inbound through 14:15 UTC; Close inactive; PayPal transaction verification interactive-only, **receipts unverified, not zero**; Supabase Radar 1 owner test / 0 new today. No new outreach, proposal, paid test, sample, quote, meeting, job application, contract, spend or owner-only escalation.
+
+## 16:28 — incremental screened opportunities; not revenue pipeline
+
+| Lane | Source / buyer / problem | Evidence / offer / blocker | Defensible value | Next action | Status |
+|---|---|---|---|---|---|
+| CASH | [n8n Community one-agent paid QA trial](https://community.n8n.io/t/looking-for-n8n-ai-automation-specialist-paid-qa-stress-testing/319256), posted 06/10; workflow/API reliability pre-client demo | ~300 replies, Vapi/Twilio/ElevenLabs examples requested and not verified; no current direct buyer invitation or funded milestone | No confirmed paid work | Exclude crowded/stale forum approach; no false voice stack proof | SCREENED / EXCLUDED |
+| JOBS | [Social You Junior AI Automation Barcelona](https://www.tecnoempleo.com/especialista-en-automatizacion-ia-junior-social-yo/rapa-low-code/rf-91b51a5ec269b311b240), refreshed 28/10 | Strong n8n/Python/API fit but required Bologna degree and medium English unverified; >630 applications; portal-only | €21k–€27k **advertised gross annual**, not earnings | No application absent verified mandatory qualifications | SCREENED / NOT APPLIED |
+| JOBS | [Enerwise software/AI developer](https://www.tecnoempleo.com/desarrollador-software-e-inteligencia-artificial-e/python-javascript/rf-62341a7ae2a0a3230044), posted 27/10 | Python/TS/Cursor/agents fit; listing metadata requires 3 years experience not verified, freelance contract, portal-only | No published price or signed work | Do not fabricate years or submit unsupported application | SCREENED / NOT APPLIED |
+| LASER | Vallès outsourced metal marking demand scan 28/10 | Search surfaced equipment/service suppliers, not named current outsourced-marking buyers; F.E.M./SensoMec/Alcarria already SENT today without replies | Unknown | Wait for genuine production/quality sample request, avoid speculative fourth pitch | NO NEW BUYER |
+| NEXLIC | Public procurement current-bidder matching | No fully validated open tender + eligible named SME + PCAP/PPT and deadline | None | Require complete proof before preview | NOT QUALIFIED |
+| AFFILIATE | Litera.pt Christian-content audience | Official commission published, but no attributable qualified organic traffic or checkout intent | No verified commission | Hold activation and ad spend | RESEARCH ONLY |
+
+**16:28 gate:** Gmail no new qualified inbound; Close inactive; PayPal transaction verification interactive-only (**receipts UNVERIFIED, not zero**); Supabase 1 owner test/0 new. No new outbound, proposal, paid test, interview, physical sample, quote, job application, contract, spend or owner-only escalation.
