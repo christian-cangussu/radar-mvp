@@ -142,3 +142,15 @@
 | NEXLIC | [Official BOE 28/10 tender index](https://www.boe.es/boe/dias/2026/10/28/index.php) | Issue accessible and current; no paired named eligible SME with complete PCAP/PPT, current deadline and verified fit | None | Research only if full bidder and pliego match emerges | RESEARCH ONLY / NOT QUALIFIED |
 
 **11:24 revenue gate:** Gmail no new qualified buyer reply or payment intent; three laser approaches SENT today without responses. Close organization inactive; PayPal transaction read requires interactive authorization; **money received UNVERIFIED, not zero**. Supabase Radar 1 test lead / 0 new today. JOBS LHH official portal-only; AFFILIATE Litera.pt no qualified organic clicks or sale. No new contact, proposal, application, sample, quote, paid trial, contract, meeting, spend or owner-only escalation.
+
+## 12:24 — opportunity ledger (screened only, not qualified pipeline)
+
+| Lane | Source / buyer / problem | Offer / evidence / blocker | Defensible value | Next action | Status |
+|---|---|---|---|---|---|
+| LASER | [Decolletatge Sabadell](https://decolletatgesabadell.com/es/), Sabadell precision CNC and ISO9001 quality; official generic `deco@decosabadell.cat` | Possible traceability/part-reference marking sample-first, but **no verified outsourced marking demand or named quality/production decision-maker**; no contact sent | Unknown, not pipeline | Find genuine marking need and named buyer first; avoid fourth same-day speculative pitch | RESEARCH ONLY / NOT CONTACTED |
+| CASH | [n8n Jobs](https://community.n8n.io/c/jobs/13), checked 28/10 | Latest hiring posts 26/10; none newly verified as direct funded small project fitting confirmed background and accessible route | None | Await funded current buyer; do not spam technical-help questions | SCREENED / NO ACTIONABLE BUYER |
+| JOBS | [LHH Barcelona IA Agent](https://www.lhh.com/es-es/encuentra-trabajo/ia-agent-barcelona-barcelona/9ab6813336ffb46f58206383c83a2271) and 27/10 [Alberto Palatchi](https://to.indeed.com/aax4crz2ynrr) | LHH accepts personal projects but portal-only; Palatchi requires professional English, not verified | LHH salary undisclosed; Palatchi €28k–€33k gross **advertised, not earnings** | No unsupported application or fabricated English | SCREENED / NOT APPLIED |
+| AFFILIATE | [Litera.pt official terms](https://litera.pt/pages/programa-de-afiliados) | 10% net discounted order commission, €20 threshold, PT/ES shipping; no measured qualified organic clicks/checkout | No commission | Hold signup/ads; test authentic organic buyer interest first | RESEARCH ONLY |
+| NEXLIC | [BOE 28/10](https://www.boe.es/boe/dias/2026/10/28/index.php) | Index inaccessible this check; no full PCAP/PPT + open tender + named eligible bidder validation | None | Recheck only with primary tender documents and actual eligible target | NOT QUALIFIED |
+
+**12:24 revenue gate:** Gmail no qualified buyer response; Close inactive; PayPal transaction/invoice verification interactive; Supabase 1 owner test lead and 0 new today. **Receipts unverified, not zero.** No new outbound, bid, application, quote, trial, sample, contract, ad spend or defensible pipeline value.
