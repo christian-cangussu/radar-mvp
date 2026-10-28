@@ -169,3 +169,15 @@
 | AFFILIATE | Litera.pt / Puli | Published programs, no organic qualified traffic or checkout/sale evidence | No commission | Hold signup/ads | RESEARCH ONLY |
 
 **13:28 revenue gate:** Gmail no qualified buyer reply; Close inactive; PayPal transaction/invoice interactive auth, **receipts unverified, not zero**; Supabase Radar 1 owner test / 0 new 28/10. No new outbound, proposal, job application, contract, quote, sample, meeting, ad spend or escalation.
+
+## 14:21 — incremental opportunity ledger (dedupe / exclusions only)
+
+| Lane | Source / buyer / problem | Evidence / offer / blockers | Defensible value | Next action | Status |
+|---|---|---|---|---|---|
+| LASER | [Total Planning](https://totalplanning.cat/blog/como-mecanizar-piezas-de-alta-precision/), Montcada precision aluminium CNC and traceability | Official contact `info@totalplanning.cat`; Gmail dedupe **SENT 25/10** `1a1725f663ac7104` for aluminium reference-marking sample. No reply or proven outsourced marking need. | Unknown; no quote | Await real buyer response; do not duplicate | ALREADY CONTACTED / NOT QUALIFIED |
+| CASH | [Marca Aumentada WhatsApp chatbot developer post](https://community.n8n.io/t/looking-for-an-ai-whatsapp-business-chatbot-developer-long-term-collaboration/324371), 26/10 | Technically aligned but CEO explicitly says **no confirmed project available**; asks rates, examples, availability, unverified. | No paid brief or amount | Do not count as paid buyer; no contact | SCREENED / NO CURRENT PAID PROJECT |
+| CASH | [Young Automation Studio n8n/Shopify](https://community.n8n.io/t/hiring-shopify-tracking-n8n-specialist-part-time-ongoing-35-hr-guaranteed-revenue-share/322445), 18/10, terms revised 19/10 | Advertised $105 paid test, but mandatory proven Shopify Customer Events/Meta CAPI/GA4 and spoken English/US Eastern overlap unverified. **No guaranteed hours** after 19/10 revision. | $105 advertised test, NOT qualified pipeline | Exclude rather than invent mandatory expertise | SCREENED / EXCLUDED |
+| JOBS | Present Connection, [Indeed Barcelona Mid Python Developer – Data & AI Backend](https://to.indeed.com/aarxnrpnfbrn), posted 22/10 | Python/APIs/SQL/AI agents overlap, €2,900–€4,200 gross monthly advertised; mandatory proactive English communication unverified; Indeed resume data lacks work history. | Advertised salary only; not income | No application or unverifiable English claim | SCREENED / NOT APPLIED |
+| AFFILIATE | [Litera.pt](https://litera.pt/pages/programa-de-afiliados), Christian-content audience hypothesis | Official 10% on paid discounted order, €20 payout threshold, disclosure, PT/ES/FR shipping; no tracked organic clicks, checkout intent or sales. | None verified | Hold activation; need real qualified demand | RESEARCH ONLY |
+
+**14:21 gate:** Gmail no new qualified buyer reply; Close inactive; PayPal interactive verification unavailable; Supabase 1 owner test/0 new today. **Receipts unverified, not zero.** No outreach, proposal, job application, sample/quote, meeting, contract, spend or owner-only escalation.
