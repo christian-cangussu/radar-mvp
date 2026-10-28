@@ -118,3 +118,15 @@
 | LASER | [2025 Bilbao subcontracting fair buyer report](https://www.cambragirona.cat/wp-content/uploads/2025/09/INFORME-FIRA-Bilbao-2025.pdf), anonymous Vizcaya machining shop needing subcontracted laser marking | Strong historical problem evidence, but buyer anonymized, 2025 and out of target geography; cannot contact/qualify | Unknown | Archive as market proof, not active opportunity | HISTORICAL / NOT CONTACTABLE |
 
 **09:24 gate:** Gmail no qualified new inbound, Close inactive, PayPal interactive authorization required, Supabase 1 owner test / 0 new. **Receipts unverified, not zero**. No new outbound, application, paid trial, physical sample/quote, proposal, contract, spend or owner-only new escalation.
+
+## 10:24 — incremental opportunity ledger and no-duplicate gate
+
+| Lane | Source / buyer / problem | Offer / evidence and blocker | Defensible value | Next action | Status |
+|---|---|---|---|---|---|
+| CASH | [Upwork 09/10 GHL n8n webhook CRM fix](https://www.upwork.com/freelance-jobs/apply/n8n-Webhook-CRM-Automation-Fix_~022108542722811042069/), buyer needs webhook → GHL contact sync | $5 advertised budget, 20–50 proposals, 1 hire already, platform-only; extremely poor unit economics | $5 **advertised, not pipeline** | Exclude; no proposal credits or off-platform contact | SCREENED / EXCLUDED |
+| LASER | [SensoMec](https://sensomec.com/), [Mecanitzats Alcarria](https://mecanitzatsalcarria.com/), [F.E.M.](https://www.mecanizadosfem.es/) | Three individual sample-first pitches already SENT 28/10; Gmail exact-domain check has no replies or sample request | Unknown, **not qualified pipeline** | Wait for actual interest; do not duplicate/chase same day | CONTACTED / AWAITING REPLY |
+| NEXLIC | [BOE 28/10 official index](https://www.boe.es/boe/dias/2026/10/28/index.php) | Public index unavailable at check; no named eligible bidder with complete PCAP/PPT and open deadline | Unknown | Retry only when official tender+company evidence is accessible | RESEARCH / UNVERIFIED |
+| JOBS | [LHH IA Agent Barcelona](https://www.lhh.com/es-es/encuentra-trabajo/ia-agent-barcelona-barcelona/9ab6813336ffb46f58206383c83a2271) | Official live role accepts personal automation projects; portal-only application not supported by available tools | Salary not published | Do not claim application | LIVE / NOT APPLIED |
+| AFFILIATE | [Litera.pt](https://litera.pt/pages/programa-de-afiliados) | 10% net commission, €20 payout; credible Christian-audience hypothesis but no organic qualified clicks, checkout or sales | None verified | Hold registration and ads; organic demand first | RESEARCH ONLY |
+
+**10:24 revenue gate:** Gmail no new qualified buyer reply; Close inactive; PayPal transactions require interactive authorization, so **receipts unverified, not zero**; Supabase 1 test lead / 0 new today. No new contact, proposal, paid test, interview, sample, quote, job application, contract, spend or owner-only new escalation.
