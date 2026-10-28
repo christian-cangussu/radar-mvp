@@ -108,3 +108,13 @@
 | AFFILIATE | [Litera.pt](https://litera.pt/pages/programa-de-afiliados), Bible/devotional retail | 10% stated program; plausible VersoViviente audience match, but no tracked qualified organic click/checkout/sale | No commission verified | No signup or paid promotion until intent evidence | RESEARCH ONLY |
 
 **08:26 revenue gate:** Gmail no new qualified commercial inbound; Close `Organization is inactive`; PayPal requires interactive auth, **receipts UNVERIFIED, not zero**; Supabase 1 owner test and 0 new leads today. NEXLIC no eligible bidder + live tender + full pliegos. One new LASER email SENT, no buyer acceptance, sample, quote, paid trial, interview, proposal, application, contract or spend.
+
+## 09:24 — screened sources, not pipeline
+
+| Lane | Source / buyer / problem | Offer / evidence / blocker | Defensible value | Next action | Status |
+|---|---|---|---|---|---|
+| CASH | [Workana Python automation](https://www.workana.com/es/job/desarrollo-de-automatizaciones-con-python-buscamos-expertos), posted 14/10; generic internal/external scripts and APIs | 53 proposals, buyer 0 paid projects, platform-only; no small paid diagnostic or verified direct contact | None confirmed | Exclude; no credits or off-platform bypass | SCREENED / EXCLUDED |
+| LASER | [Catà Germans](https://catagermans.com/es/servicios/marcaje-laser/), Catalan metal subcontractor | Explicitly offers permanent laser marking in-house; no capacity outsourcing signal | Unknown | No approach absent direct outsourcing request | SCREENED / NOT PRIORITY BUYER |
+| LASER | [2025 Bilbao subcontracting fair buyer report](https://www.cambragirona.cat/wp-content/uploads/2025/09/INFORME-FIRA-Bilbao-2025.pdf), anonymous Vizcaya machining shop needing subcontracted laser marking | Strong historical problem evidence, but buyer anonymized, 2025 and out of target geography; cannot contact/qualify | Unknown | Archive as market proof, not active opportunity | HISTORICAL / NOT CONTACTABLE |
+
+**09:24 gate:** Gmail no qualified new inbound, Close inactive, PayPal interactive authorization required, Supabase 1 owner test / 0 new. **Receipts unverified, not zero**. No new outbound, application, paid trial, physical sample/quote, proposal, contract, spend or owner-only new escalation.
