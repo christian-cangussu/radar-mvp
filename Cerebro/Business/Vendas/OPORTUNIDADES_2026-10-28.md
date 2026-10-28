@@ -154,3 +154,18 @@
 | NEXLIC | [BOE 28/10](https://www.boe.es/boe/dias/2026/10/28/index.php) | Index inaccessible this check; no full PCAP/PPT + open tender + named eligible bidder validation | None | Recheck only with primary tender documents and actual eligible target | NOT QUALIFIED |
 
 **12:24 revenue gate:** Gmail no qualified buyer response; Close inactive; PayPal transaction/invoice verification interactive; Supabase 1 owner test lead and 0 new today. **Receipts unverified, not zero.** No new outbound, bid, application, quote, trial, sample, contract, ad spend or defensible pipeline value.
+
+
+## 13:28 — screened demand, not qualified revenue pipeline
+
+| Lane | Source / buyer / problem | Offer / evidence / blocker | Defensible value | Next action | Status |
+|---|---|---|---|---|---|
+| CASH | [Upwork 28/10 n8n webhook→OpenAI classifier](https://www.upwork.com/freelance-jobs/apply/n8n-Developer-Needed-for-API-Automation_~022115237059211829085/) | Narrow prototype, 50+ proposals, 4 prior hires but $60 total spent; Upwork-only, 2–3 day target not authorized | $70 advertised only, **not pipeline or receipts** | No proposal credits/off-platform contact; drop unless authenticated platform route opens and demand remains | SCREENED / EXCLUDED |
+| CASH | [Upwork 28/10 webhook→Airtable→HTML receipt](https://www.upwork.com/freelance-jobs/apply/Build-n8n-Automation-Webhooks-API-Integrations-CRM-Workflow-Setup_~022115253902953622673/) | Well-matched n8n/APIs; 20–50 proposals, buyer joined 23/10, platform-only | $250 advertised only, **not pipeline or receipts** | No unapproved platform proposal or credits; only revisit if buyer contact/fit strengthens | SCREENED / HOLD |
+| CASH | [n8n forum 26/10 Python queue ACK](https://community.n8n.io/t/n8n-cloud-google-drive-windows-python-runner-queue-ack-mismatch-need-minimal-fix/324515) | Real workflow issue, but community provided detailed repair plan and user reported progress; no paid brief | None | Do not solicit help request as buyer | NOT A VERIFIED PAID BUYER |
+| LASER | F.E.M. / SensoMec / Mecanitzats Alcarria | Three 28/10 messages already SENT; no incoming sample/quote reply | Unknown | Wait for inbound; no same-day duplicate | CONTACTED / NOT QUALIFIED |
+| JOBS | [Grupo Digital junior DevSecOps](https://ticjob.es/esp/trabajo/tecnico-devsecops-junior-730-1530h-remoto-100/70777); [OneCoWork AI automation](https://es.indeed.com/q-python-sin-experiencia-l-barcelona%2C-barcelona-provincia-empleos.html); [Arelance Python/Vue](https://www.tecnoempleo.com/full-stack-developer-python-vuejs-arelance/vuejs-api-rest/rf-adde183462cba395b943) | Mandatory advanced spoken English / Microsoft Excel+Power Platform / 2y Vue+GCP respectively not verified; no truthful fit | OneCoWork €21k–€32k and Arelance €24k–€27k **advertised salary, not earnings** | No application without verified mandatory qualifications | SCREENED / EXCLUDED |
+| NEXLIC | Current tender discovery | No validated live tender+named eligible buyer+complete PCAP/PPT | None | Require defensible GO/NO-GO before preview or claim | NOT QUALIFIED |
+| AFFILIATE | Litera.pt / Puli | Published programs, no organic qualified traffic or checkout/sale evidence | No commission | Hold signup/ads | RESEARCH ONLY |
+
+**13:28 revenue gate:** Gmail no qualified buyer reply; Close inactive; PayPal transaction/invoice interactive auth, **receipts unverified, not zero**; Supabase Radar 1 owner test / 0 new 28/10. No new outbound, proposal, job application, contract, quote, sample, meeting, ad spend or escalation.
