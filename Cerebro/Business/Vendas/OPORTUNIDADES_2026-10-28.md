@@ -181,3 +181,17 @@
 | AFFILIATE | [Litera.pt](https://litera.pt/pages/programa-de-afiliados), Christian-content audience hypothesis | Official 10% on paid discounted order, €20 payout threshold, disclosure, PT/ES/FR shipping; no tracked organic clicks, checkout intent or sales. | None verified | Hold activation; need real qualified demand | RESEARCH ONLY |
 
 **14:21 gate:** Gmail no new qualified buyer reply; Close inactive; PayPal interactive verification unavailable; Supabase 1 owner test/0 new today. **Receipts unverified, not zero.** No outreach, proposal, job application, sample/quote, meeting, contract, spend or owner-only escalation.
+
+
+## 15:20 — incremental opportunity ledger (dedupe, research-only)
+
+| Lane | Source / buyer / problem | Evidence / offer / blocker | Defensible value | Next action | Status |
+|---|---|---|---|---|---|
+| LASER | [Mecanizados Frame](https://mecframe.com/), Barberà precision parts | Official `frame@mecframe.com`; Gmail **SENT 23/10** `1a16b4fe560fc2cd` metal-marking sample pitch. No reply/confirmed outsourced need. | Unknown | Wait for inbound; do not duplicate | ALREADY CONTACTED / NOT QUALIFIED |
+| LASER | [Masterquadre](https://www.masterquadre.com/), Castellar industrial electrical panels | Official `info@masterquadre.com`; identification/metal panel marking possible, but no named production/quality buyer or confirmed outsourced need. No outreach. | Unknown | Only reconsider if specific decision-maker and actual marking demand found | RESEARCH ONLY / NOT QUALIFIED |
+| CASH | [Upwork 21/10 simple n8n webhook/API](https://www.upwork.com/freelance-jobs/apply/n8n-Developer-Needed-for-Simple-API-Automation_~022112891781956892368/) | Fewer than 5 proposals but buyer already has **1 hire**, last viewed 4 days ago; platform-only, 2-day delivery request unaccepted. | $100 advertised, **not pipeline or revenue** | No platform bypass, bid or credits; deprioritize | SCREENED / EXCLUDED |
+| NEXLIC | 28/10 public procurement validation | BOE index inaccessible; no named eligible bidder, open deadline and full PCAP/PPT match. | None | Do not claim eligibility or send preview | NOT QUALIFIED |
+| JOBS | [LHH IA Agent Barcelona](https://www.lhh.com/es-es/encuentra-trabajo/ia-agent-barcelona-barcelona/9ab6813336ffb46f58206383c83a2271) | Official posting live, skills match personal projects, application portal-only unsupported. | Salary not verified | No false submitted-application claim | RESEARCH / NOT APPLIED |
+| AFFILIATE | [Litera.pt](https://litera.pt/pages/programa-de-afiliados) | 10% on paid orders, €20 threshold; no organic qualified traffic or checkout/sales. | None verified | Hold activation/ads | RESEARCH ONLY |
+
+**15:20 gate:** Gmail no qualified commercial inbound through 14:15 UTC; Close inactive; PayPal transaction verification interactive-only, **receipts unverified, not zero**; Supabase Radar 1 owner test / 0 new today. No new outreach, proposal, paid test, sample, quote, meeting, job application, contract, spend or owner-only escalation.
