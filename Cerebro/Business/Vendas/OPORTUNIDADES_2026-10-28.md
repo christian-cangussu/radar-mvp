@@ -72,3 +72,15 @@
 | JOBS | [Division 4 Mataró](https://es.linkedin.com/jobs/view/buscamos-freelance-experto-a-en-ia-y-excel-para-automatizar-procesos-matar%C3%B3-y-alrededores-at-division-4-4480943474) local freelance AI/Excel automation | Requires advanced Excel; owner's level not verified. n8n is only a plus, not a substitute. Application via LinkedIn | No rate published | Exclude until advanced Excel independently verified | SCREENED / NOT APPLIED |
 
 **05:27 revenue gate:** Gmail no qualified new incoming; Close `Organization is inactive`; PayPal interactive auth. Supabase Radar 1 owner test, 0 new since midnight. **Money received unverified, not zero.** NEXLIC no eligible bidder/live tender/full PCAP/PPT fit; AFFILIATE no qualified traffic or conversions. No new outreach, application, proposal, quote, contract, paid trial, spend or owner-only escalation.
+
+## 06:23 — new screening, no defensible paid pipeline
+
+| Lane | Source / buyer / problem | Offer / evidence and blockers | Defensible value | Next action | Status |
+|---|---|---|---|---|---|
+| CASH | [Workana n8n/Python specialist](https://www.workana.com/es/job/ingeniero-en-automatizacion-con-ia-n8n-python-specialist), buyer C. S., 04/01/2026 | n8n + Python/AI/WhatsApp backend; 1 prior paid buyer project, 1 proposal. **Mandatory 2–3 years similar experience and official WhatsApp API implementation unverified**; listing 9 months old and Workana-only. | Not published/verified | Do not claim requirements or apply; exclude from near-term CASH | SCREENED / EXCLUDED |
+| LASER | [MEBSA](https://mebsa.es/marcaje-laser/), precision machining, traceability | Own in-house industrial laser marking capability; no evidence of outsourced capacity need | Unknown | Exclude; no duplicate/speculative outreach | SCREENED / NOT A BUYER |
+| LASER | [Mecatecno](https://www.mecatecno.com/), Castellar CNC, traceable batches | Reports external grinding/welding suppliers, but no verified laser-marking need or named buyer. Sample-first concept only if buyer asks | Unknown | Research actual need/production owner before any contact | RESEARCH ONLY |
+| JOBS | [LHH IA Agent](https://www.lhh.com/es-es/encuentra-trabajo/ia-agent-barcelona-barcelona/9ab6813336ffb46f58206383c83a2271), Barcelona | Listing still active, personal projects count; official portal-only, no authenticated safe application | Salary undisclosed | Do not claim submitted application | LIVE / NOT APPLIED |
+| AFFILIATE | [Puli](https://puli.es/afiliados), SME billing SaaS | 30% net/12 months, 30-day cookie, €50 invoice threshold; Metricool connected brand `versoviviente` religious audience, no demonstrated SME billing intent or attributed clicks | No verified commission | Hold signup; need organic qualified SME traffic evidence | RESEARCH ONLY |
+
+**06:23 revenue gate:** Gmail no new qualified commercial reply, F.E.M. sent only; Close inactive; PayPal requires interactive auth; Supabase 1 owner test, 0 new leads since midnight Madrid. **Receipts unverified, not zero.** No new contact, proposal, paid trial, sample/quote, job application, contract, meeting, ads, spending or owner-only escalation.
