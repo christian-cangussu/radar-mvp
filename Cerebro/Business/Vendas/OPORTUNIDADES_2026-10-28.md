@@ -27,3 +27,14 @@
 | AFFILIATE | [Puli](https://puli.es/afiliados) | 30% net paid subscription/12 months; 30-day cookie; €50 invoice threshold; no measured relevant organic demand | No commissions verified | Hold signup and paid distribution | RESEARCH ONLY |
 
 **Revenue gate 01:24 Madrid:** Gmail no new qualified buyer messages; Close inactive; PayPal interactive auth. **Money received unverified, not zero.** No new pipeline value, outreach, proposal, quote, job application, contract or ad spend.
+
+## 02:26 — screened public demand and duplicates; no new qualified pipeline
+
+| Lane | Source / buyer / problem | Offer / evidence and blockers | Value | Next action | Status |
+|---|---|---|---|---|---|
+| CASH | [Workana 27/10 WhatsApp surveys](https://www.workana.com/job/desarrollo-de-bot-para-automatizacion-y-encuestas-en-whatsapp), buyer D. S. M., automate questionnaire flows and collect replies | Python/REST API fit but 72 proposals, buyer 0 paid projects, unspecified medium scope, platform-only | No budget verified | Exclude near-term, no proposal | SCREENED / EXCLUDED |
+| CASH | [Upwork 27/10 Slack delivery fix](https://www.upwork.com/freelance-jobs/apply/n8n-Automation-Troubleshooting-Optimization_~022115051166836465501/), buyer Germany, n8n/OpenAI lead processing with intermittent Slack notifications | Narrow repair; buyer 22 hires/$1.2k spent, but 50+ proposals and platform-only | $30 **advertised**, not revenue | Do not spend proposal credits or bypass platform | SCREENED / EXCLUDED |
+| JOBS/CASH | [NODENA n8n + AI remote](https://www.reddit.com/r/n8n/comments/1we0s7n/hiring_especialista_en_n8n_ia_remoto_latam/) | Full-time stable role, LATAM preference; Gmail **SENT** prior application 26/09, no new reply | Pay undisclosed | No duplicate contact | DEDUPED / CONTACTED EARLIER |
+| JOBS | [knowmad mood Architect AI & Automation](https://to.indeed.com/aary2bhh6bpr), Barcelona/remote, multiagents/MCP/n8n | Senior enterprise architecture leadership not verified in owner's work history; no safe application | Salary undisclosed | Exclude mandatory fit | SCREENED / EXCLUDED |
+
+**02:26 revenue gate:** Gmail no qualified new buyer reply; Close `Organization is inactive`; PayPal successful transactions and paid invoices require interactive auth. Supabase Radar 1 owner test lead, 0 new today. **Money received unverified, not zero**. No new outreach, proposal, paid trial, quote, interview, contract, job application, spend or notification trigger. LASER Rocacorba still research-only; NEXLIC no tender-bidder-pliego match; AFFILIATE no verified organic conversion.
